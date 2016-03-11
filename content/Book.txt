@@ -22,3 +22,15 @@ SecDevOps.md
 1.New-generation-of-appsec-thinking.md
 2.We-have-solutions.md
 3.Unwritten-rules-of-APIs.md
+
+New-Paradigm-for-AppSec.md
+
+1.Five-Proposed-Focus.md
+2.Twelve-Proposed Actions.md
+3.FUD-Section.md
+4.The-truth-is-out-there.md
+5.Good-news.md
+6.Group-Think.md
+7.Health-and-Safety.md
+8.Why-am-I-so-worried.md
+9.Solutions.md

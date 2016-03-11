@@ -8,3 +8,4 @@ Content based on 2010 [A 'Web Application Security' challenge](http://www.slides
 * Group Think
 * Health and Safety
 * Why am I so worried?
+* Solutions
