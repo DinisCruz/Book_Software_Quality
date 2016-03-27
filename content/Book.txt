@@ -1,17 +1,19 @@
 {frontmatter}
 1.Leanpub-book-based-on-presentation.md
 2.ChangeLog.md
+3.Why-this-book.md
 
 {mainmatter}
 
 Quality-and-Security.md
 
 1.Measuring-Software-Quality-using-Application-Security.md
-2.Writing-secure-code-myth.md
-3.The-pollution-analogy.md
-4.Current-state-of-Application-Insecurity.md
-5.Why-do-application-security.md
-6.Who-is-attacking-you.md
+2.Software-is-attacking-the-world.md
+3.3.New-generation-of-Application-Securtiy-Thinking
+4.Writing-secure-code-myth.md
+5.The-pollution-analogy.md
+6.Current-state-of-Application-Insecurity.md
+7.Why-do-application-security.md
 
 JIRA-Risk-Workflow.md
 
@@ -34,3 +36,10 @@ New-Paradigm-for-AppSec.md
 7.Health-and-Safety.md
 8.Why-am-I-so-worried.md
 9.Solutions.md
+
+Testing.md
+
+1.Abusing-the-definition-of-test.md
+2.Making-Random-Changes.md
+3.Handling-Bugs.md
+
