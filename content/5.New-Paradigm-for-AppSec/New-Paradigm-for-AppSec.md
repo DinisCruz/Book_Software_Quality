@@ -1,3 +1,5 @@
+# New Paradigm for AppSec
+
 Content based on 2010 [A 'Web Application Security' challenge](http://www.slideshare.net/DinisCruz/presentation-a-web-application-security-challenge) presentation from OWASP IBWAS conference in 2010
 
 * Five (5) Proposed Focus
