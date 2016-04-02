@@ -42,4 +42,5 @@ Testing.md
 1.Abusing-the-definition-of-test.md
 2.Making-Random-Changes.md
 3.Handling-Bugs.md
-
+4.Security-Testing.md
+5.Deep-Coding.md
