@@ -58,4 +58,8 @@ Industry.md
 
 Misc-topics.md
 1.Concepts.md
+2.Security-past-vulns.md
+3.Development-black-box.md
+4.AppSec-Players.md
+5.The-zone.md
 x.ideas-and-to-do.md
