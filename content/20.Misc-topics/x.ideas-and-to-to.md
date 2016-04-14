@@ -11,9 +11,6 @@ to do:
  - [ ] Food analogy for software, one ingredient can ruin the whole thing
  - [ ] one of the probs in software is it's lack real isolation between layers (vs nature that has)
  - [ ] coding in 'the zone'
- - [ ] DevOps is key for quality and security
- - [ ] Infrastructure as code (all changes are code, and all changes need tests)
-
 Real-stories of Vulnerabilities discovered (and map them to quality or testing issues)
  - [ ] Login by pass via checkbox
  - [ ] Mortgage application which allowed direct access to specific screen
