@@ -63,4 +63,5 @@ Misc-topics.md
 3.Development-black-box.md
 4.AppSec-Players.md
 5.The-zone.md
+6.Design.md
 x.ideas-and-to-do.md
