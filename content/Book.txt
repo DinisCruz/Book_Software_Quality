@@ -47,6 +47,7 @@ Testing.md
 3.Handling-Bugs.md
 4.Security-Testing.md
 5.Deep-Coding.md
+6.Testing-strategies.md
 
 Industry.md
 

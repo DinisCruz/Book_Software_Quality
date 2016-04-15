@@ -15,6 +15,11 @@ Real-stories of Vulnerabilities discovered (and map them to quality or testing i
  - [ ] Login by pass via checkbox
  - [ ] Mortgage application which allowed direct access to specific screen
  - [ ] ModelAttribute vuln in Mortgage application base class
+
+ ### Books or resources
+
  - [ ] 'New rules for new economy' book (see 10 rules and apply them to appsec/quality)
  - [ ] 'Self evolving circuits' ('Out of Control' book)
  - [ ] 'Dip concept' as applied to testing (from book)
+ - [ ] Cigital 'Build rock solid security initiatives' book
+ - [ ] Points made on 'O2 Platform' presentation (namely the framework section)
