@@ -18,12 +18,15 @@ Quality-and-Security.md
 JIRA-Risk-Workflow.md
 
 1.JIRA-Risk-Workflow.md
+2.Git-for-security.md
 
 SecDevOps.md
 
 1.New-generation-of-appsec-thinking.md
 2.We-have-solutions.md
 3.Unwritten-rules-of-APIs.md
+4.DevOps.md
+5.Two-dev-pipelines.md
 
 New-Paradigm-for-AppSec.md
 
@@ -44,3 +47,21 @@ Testing.md
 3.Handling-Bugs.md
 4.Security-Testing.md
 5.Deep-Coding.md
+6.Testing-strategies.md
+
+Industry.md
+
+1.OWASP.md
+2.Rugged-software.md
+3.Software-craftsmanship.md
+4.Agile.md
+5.Kanban.md
+
+Misc-topics.md
+1.Concepts.md
+2.Security-past-vulns.md
+3.Development-black-box.md
+4.AppSec-Players.md
+5.The-zone.md
+6.Design.md
+x.ideas-and-to-do.md

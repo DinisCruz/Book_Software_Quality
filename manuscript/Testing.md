@@ -4,4 +4,5 @@
 * Making random changes
 * Handling bugs
 * Security testing
-* 
+* Deep coding
+* Testing strategies
