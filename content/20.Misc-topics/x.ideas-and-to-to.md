@@ -16,6 +16,9 @@ Real-stories of Vulnerabilities discovered (and map them to quality or testing i
 - [ ] Mortgage application which allowed direct access to specific screen
 - [ ] ModelAttribute vuln in Mortgage application base class
 - [ ] add reference to story about evolution of Ramsonware ('ok panic now')
+- [ ] add XStream stories and research
+- [ ] add examples from series of my blog posts written about what is really needed to test a webservice. Analogy with food components mappings (or calories counting). Doesn't matter if it complex, what matters is that is can be done
+
 ### Books or resources
 
 - [ ] 'New rules for new economy' book (see 10 rules and apply them to appsec/quality)
@@ -23,3 +26,4 @@ Real-stories of Vulnerabilities discovered (and map them to quality or testing i
 - [ ] 'Dip concept' as applied to testing (from book)
 - [ ] Cigital 'Build rock solid security initiatives' book
 - [ ] Points made on 'O2 Platform' presentation (namely the framework section)
+- [ ] '7 habits of Highly successful people' (mapped to development and appsec)
