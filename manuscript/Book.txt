@@ -57,9 +57,18 @@ Industry.md
 4.Agile.md
 5.Kanban.md
 
+Software-developement.md
+
+1.Software-complexity.md
+2.AppSec.md
+3.Software-Evolution.md
+4.Your-future-self.md
+5.Continuous-integration.md
+
 Misc-topics.md
 1.Concepts.md
-2.Security-past-vulns.md
+2.a.Security-past-vulns.md
+2.b.Security-dodged-bullets.md
 3.Development-black-box.md
 4.AppSec-Players.md
 5.The-zone.md

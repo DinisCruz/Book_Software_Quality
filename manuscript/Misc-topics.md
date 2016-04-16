@@ -8,4 +8,10 @@ The idea is that as I review them (in printed or digital format) I find the best
 
 
 - Concepts
+- Security past vulns
+- Security dodged bullets
+- Development black box
+- AppSec players
+- The Zone
+- Design
 - Ideas and to-do
