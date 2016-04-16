@@ -63,6 +63,7 @@ Software-developement.md
 2.AppSec.md
 3.Software-Evolution.md
 4.Your-future-self.md
+5.Continuous-integration.md
 
 Misc-topics.md
 1.Concepts.md
