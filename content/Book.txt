@@ -67,7 +67,8 @@ Software-developement.md
 
 Misc-topics.md
 1.Concepts.md
-2.Security-past-vulns.md
+2.a.Security-past-vulns.md
+2.b.Security-dodged-bullets.md
 3.Development-black-box.md
 4.AppSec-Players.md
 5.The-zone.md
