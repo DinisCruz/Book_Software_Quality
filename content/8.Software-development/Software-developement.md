@@ -4,3 +4,8 @@
 - AppSec
 - Software Evolution
 - Your Future Self
+- Continuous Integration
+- Cloud
+- Defending from Attacks
+- Code Coverage
+- Non Functional Requirements
