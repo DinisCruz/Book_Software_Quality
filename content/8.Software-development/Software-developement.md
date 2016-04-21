@@ -11,3 +11,5 @@
 - Non Functional Requirements
 - Graphs
 - Legacy code
+- Software Business
+- The Business

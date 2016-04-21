@@ -21,6 +21,7 @@ JIRA-Risk-Workflow.md
 2.Git-for-security.md
 3.Risk-issues-on-JIRA.md
 4.JIRA-issues.md
+5.Issue-tracking-solution.md
 
 SecDevOps.md
 
@@ -73,6 +74,8 @@ Software-developement.md
 9.Non-Functional-Requirements.md
 10.Graphs.md
 11.Legacy-code.md
+12.Software-Business.md
+13.The-Business.md
 
 Misc-topics.md
 1.Concepts.md
@@ -83,3 +86,4 @@ Misc-topics.md
 5.The-zone.md
 6.Design.md
 x.ideas-and-to-do.md
+y.diagrams-to-create.md

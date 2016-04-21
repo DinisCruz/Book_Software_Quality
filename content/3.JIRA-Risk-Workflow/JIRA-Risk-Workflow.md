@@ -7,3 +7,4 @@
   - Git for security
   - Risk issues on JIRA
   - JIRA issues
+  - Bug tracking features
