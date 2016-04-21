@@ -9,3 +9,5 @@
 - Defending from Attacks
 - Code Coverage
 - Non Functional Requirements
+- Graphs
+- Legacy code
