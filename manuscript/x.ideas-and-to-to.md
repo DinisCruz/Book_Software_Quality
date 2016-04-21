@@ -19,6 +19,7 @@ Real-stories of Vulnerabilities discovered (and map them to quality or testing i
 - [ ] add XStream stories and research
 - [ ] add examples from series of my blog posts written about what is really needed to test a webservice. Analogy with food components mappings (or calories counting). Doesn't matter if it complex, what matters is that is can be done
 - [ ] add graph (and link article/blog-post) that showed the security cost of technology (to society) intersecting with the value of technology (to society)
+- [ ] add page to frontmatter with the diagrams that exit in the book (hyperlinked if seen on the web)
 
 ### Books or resources
 - [ ] Verizon 2015 Data Breach Investigations Report  http://www.verizonenterprise.com/DBIR/2015/
