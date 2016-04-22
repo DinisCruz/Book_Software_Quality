@@ -76,6 +76,8 @@ Software-developement.md
 11.Legacy-code.md
 12.Software-Business.md
 13.The-Business.md
+14.Security-Software.md
+15.Visibility.md
 
 Misc-topics.md
 1.Concepts.md
