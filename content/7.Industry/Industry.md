@@ -5,3 +5,4 @@
 - Software Craftsmanship
 - Agile
 - Kanban
+- Regulation

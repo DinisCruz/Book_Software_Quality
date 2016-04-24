@@ -28,7 +28,7 @@ Real-stories of Vulnerabilities discovered (and map them to quality or testing i
   - [ ] reference OWASP Legal project (https://www.owasp.org/index.php/Category:OWASP_Legal_Project)
   - [ ] "Changing the Physics of Defense" https://twitter.com/JohnLaTwC/status/720062006636724224 and  http://www.meetup.com/Microsoft-Ventures-Academy/events/230194003/
  - [ ] "attackers think in graphs" https://twitter.com/JohnLaTwC/status/718089335552102400
- 
+
 ### Books or resources
 - [ ] Verizon 2015 Data Breach Investigations Report  http://www.verizonenterprise.com/DBIR/2015/
 - [ ] 'New rules for new economy' book (see 10 rules and apply them to appsec/quality)
@@ -37,3 +37,14 @@ Real-stories of Vulnerabilities discovered (and map them to quality or testing i
 - [ ] Cigital 'Build rock solid security initiatives' book
 - [ ] Points made on 'O2 Platform' presentation (namely the framework section)
 - [ ] '7 habits of Highly successful people' (mapped to development and appsec)
+
+
+### Resources for research
+
+ - "How to measure quality in a software development project?" - http://pm.stackexchange.com/questions/1539/how-to-measure-quality-in-a-software-development-project
+ - Wikipedia:
+    - "Software Quality" - https://en.wikipedia.org/wiki/Software_quality
+    - "Project management", "...The primary constraints are scope, time, quality and budget..." https://en.wikipedia.org/wiki/Project_management"
+
+### Demo and training apps (with know vulns and best practices)
+ - https://github.com/dschadow/JavaSecurity    

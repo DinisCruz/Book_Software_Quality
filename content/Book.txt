@@ -30,6 +30,7 @@ SecDevOps.md
 3.Unwritten-rules-of-APIs.md
 4.DevOps.md
 5.Two-dev-pipelines.md
+6.Incident-Response.md
 
 New-Paradigm-for-AppSec.md
 
@@ -60,6 +61,7 @@ Industry.md
 3.Software-craftsmanship.md
 4.Agile.md
 5.Kanban.md
+6.Regulation.md
 
 Software-developement.md
 
@@ -80,11 +82,13 @@ Software-developement.md
 15.Visibility.md
 16.Software-economics.md
 17.Software-insurance.md
+18.Threat-Modeling.md
 
 Misc-topics.md
 1.Concepts.md
 2.a.Security-past-vulns.md
 2.b.Security-dodged-bullets.md
+2.c.Security-anti-patterns.md
 3.Development-black-box.md
 4.AppSec-Players.md
 5.The-zone.md
