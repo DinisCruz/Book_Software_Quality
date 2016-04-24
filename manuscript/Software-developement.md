@@ -15,3 +15,5 @@
 - The Business
 - Security Software
 - Visibility
+- Software economics
+- Software insurance

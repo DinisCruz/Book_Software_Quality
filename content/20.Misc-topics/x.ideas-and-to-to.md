@@ -25,9 +25,9 @@ Real-stories of Vulnerabilities discovered (and map them to quality or testing i
   - [ ] "Security, Fast and Slow" 1raindrop.typepad.com/1_raindrop/2015/04/security-fast-and-security-slow.html
   - [ ] "The year the security dog caught the car", http://1raindrop.typepad.com/1_raindrop/2015/02/the-year-the-security-dog-caught-the-car.html
   - [ ] "Security Champions Guide to Web Application Security" http://1raindrop.typepad.com/1_raindrop/2015/11/security-champions-guide-to-web-application-security.html
-
   - [ ] reference OWASP Legal project (https://www.owasp.org/index.php/Category:OWASP_Legal_Project)
-
+  - [ ] "Changing the Physics of Defense" https://twitter.com/JohnLaTwC/status/720062006636724224 and  http://www.meetup.com/Microsoft-Ventures-Academy/events/230194003/
+  
 ### Books or resources
 - [ ] Verizon 2015 Data Breach Investigations Report  http://www.verizonenterprise.com/DBIR/2015/
 - [ ] 'New rules for new economy' book (see 10 rules and apply them to appsec/quality)

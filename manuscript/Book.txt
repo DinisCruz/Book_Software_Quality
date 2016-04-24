@@ -78,6 +78,8 @@ Software-developement.md
 13.The-Business.md
 14.Security-Software.md
 15.Visibility.md
+16.Software-economics.md
+17.Software-insurance.md
 
 Misc-topics.md
 1.Concepts.md
