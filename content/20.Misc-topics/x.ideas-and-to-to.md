@@ -1,7 +1,13 @@
 ## Ideas and To-do
 
+*stories:*
 
-to do:
+  - [ ] (story of doing a pentest and finding massive issues on a particular website of a particular county and being asked by the representatives of that country, 'who owned that website')
+  - [ ]  (story of Swiss version of NDAs)
+  - [ ]  (story of PM that was managing an retest and demanded that 'no new issues could be found')   
+
+*to do:
+
 - [ ] Information Security vs Application Security
 - [ ] Marked for security disclosure is not working
 - [ ] Wifi security case study
@@ -30,6 +36,7 @@ Real-stories of Vulnerabilities discovered (and map them to quality or testing i
  - [ ] "attackers think in graphs" https://twitter.com/JohnLaTwC/status/718089335552102400
 
 ### Books or resources
+
 - [ ] Verizon 2015 Data Breach Investigations Report  http://www.verizonenterprise.com/DBIR/2015/
 - [ ] 'New rules for new economy' book (see 10 rules and apply them to appsec/quality)
 - [ ] 'Self evolving circuits' ('Out of Control' book)
