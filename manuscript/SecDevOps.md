@@ -4,3 +4,5 @@
 * We have solutions
 * Unwritten rules of APIs
 * DevOps
+* Two Dev Pipeline
+* Incident Response

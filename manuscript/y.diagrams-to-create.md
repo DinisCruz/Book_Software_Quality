@@ -10,7 +10,7 @@
  - by the end of the graph there is an inflection point on the graph, with a high upwards acceleration, which then passes by another line was started linearly from the beginning
 
   - happens when one decides to build a tool to help with the current task.
-    - for example a tool to parse DWR (Java's Dynamic Web Remoting) services (insral)
+    - for example a tool to parse DWR (Java's Dynamic Web Remoting) services
   - this means that until the tool works we are actually delivering negative value to the customer
     - because while we are building the tool, we are not working on the task at hand
 
