@@ -6,7 +6,6 @@ I'm adding them here since it is easier and faster to move the draft notes I hav
 
 The idea is that as I review them (in printed or digital format) I find the best place for them in the book's structure
 
-
 - Concepts
 - Security past vulns
 - Security dodged bullets
@@ -14,4 +13,5 @@ The idea is that as I review them (in printed or digital format) I find the best
 - AppSec players
 - The Zone
 - Design
+- Books
 - Ideas and to-do

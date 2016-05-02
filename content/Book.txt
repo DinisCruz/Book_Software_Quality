@@ -93,5 +93,6 @@ Misc-topics.md
 4.AppSec-Players.md
 5.The-zone.md
 6.Design.md
+7.Books.md
 x.ideas-and-to-do.md
 y.diagrams-to-create.md
