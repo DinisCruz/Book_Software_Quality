@@ -31,6 +31,7 @@ SecDevOps.md
 4.DevOps.md
 5.Two-dev-pipelines.md
 6.Incident-Response.md
+7.Hacking.md
 
 New-Paradigm-for-AppSec.md
 
@@ -94,5 +95,6 @@ Misc-topics.md
 5.The-zone.md
 6.Design.md
 7.Books.md
+8.The-Brain.md
 x.ideas-and-to-do.md
 y.diagrams-to-create.md
