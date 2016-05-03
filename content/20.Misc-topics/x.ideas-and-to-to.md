@@ -6,7 +6,8 @@
   - [ ] ... Swiss version of NDAs)
   - [ ] ... PM that was managing an retest and demanded that 'no new issues could be found')   
   - [ ] ... DNS Pinning and streaming music over DNS. IP over DNS proxys (that provide internet access to airports)
-
+  - tell Christopher columbus egg story and 'the pt discovered it'
+  
 ### to review:
 
   - [ ] Information Security vs Application Security
@@ -47,7 +48,10 @@
 
   - [ ] Verizon 2015 Data Breach Investigations Report  http://www.verizonenterprise.com/DBIR/2015/
   - [ ] 'New rules for new economy' book (see 10 rules and apply them to appsec/quality)
-  - [ ] 'Self evolving circuits' ('Out of Control' book)
+
+  - [ ] 'Out of Control' book
+    - 'Self evolving circuits'
+    - ecosystems
   - [ ] 'Dip concept' as applied to testing (from book)
     - know when to say yes, and once you do it, stick with it
   - [ ] Cigital 'Build rock solid security initiatives' book
@@ -56,6 +60,7 @@
   - [ ] Graphs (Neo4J)
   - [ ] Hacking Exposed
   - [ ] Iron-clad Java (Jim Manico)
+  - [ ] Open Voices
 
 ### Resources for research
 
