@@ -1,7 +1,9 @@
 ## From Audio - Rewrite and map to chapters
 (from audio transcription, rewrite in better english :) )
 
-### Technical managers With Coding Skills
+... This is a content Change ...
+
+### Technical managers With Coding Skills!!!!
 
 If you have technical managers with coding skills, it’s a waste of their talent if they’re not coding once they get promoted into a non-coding function like technical architect or business analyst or even manager.
 
