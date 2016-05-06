@@ -7,7 +7,7 @@
   - [ ] ... PM that was managing an retest and demanded that 'no new issues could be found')   
   - [ ] ... DNS Pinning and streaming music over DNS. IP over DNS proxys (that provide internet access to airports)
   - tell Christopher columbus egg story and 'the pt discovered it'
-  
+
 ### to review:
 
   - [ ] Information Security vs Application Security
@@ -43,6 +43,8 @@
    - [ ] Flame Graphs (Dev and security reviews). Using Flame Graphs to detect attacks and newly created vulnerabilities
    - [ ] Ollydbg - Amazing tool, specially its 'Animate Step-Trace' which records all executed lines
    - [ ] O2 Platform MethodStreams
+   - [ ] "Seven myths of software security best practices" http://searchsecurity.techtarget.com/opinion/McGraw-Seven-myths-of-software-security-best-practices
+   - [ ] "McGraw on why DAST and RASP aren't enterprise scale", http://searchsecurity.techtarget.com/opinion/McGraw-on-why-DAST-and-RASP-arent-enterprise-scale
 
 ### Books
 
@@ -83,17 +85,3 @@
 
 ### Demo and training apps (with know vulns and best practices)
  - https://github.com/dschadow/JavaSecurity    
-
-### quotes
-
-  - "Software and technology have democratize espionage", Alex Karp, Palantic Technologies
-  - "The only two products not covered by product liability are relegion and software, and software shall not escape much longer", Dan Geer (BH or DC keynote)
-  - "Two kinds of companies, those that have been hacked and those that do not know it yet"
-  - "A widespread view holds that the US and US tech companies have disproportionately captures the economic benefits of the global internet" (find source)
-    - Propose EU wide efforts on technology
-    - De-americanalize the internet
-    - Hacking laws - legalize it
-  - "The right to privacy in the digital age", Resolution 68/67 UN General Council
-  - "The US Surveillance programs and their impact on Eu citizen rights" (Eu Parliament)
-    - "A full industrial policy for development of an autonomous cloud computing capability based on Free/Open-Source software"
-  - "This is your last chance, after this there is no turning back. You take the blue pill, the story ends, you wake up in your bed and believe in what ever you want to believe, You take the red pill, you stay in wonderland, and I show you how deep the rabbit hole goes. Remember, all I'm offering is the truth, nothing more", Morpheus to Neo, The Matrix

@@ -2,9 +2,9 @@
 
 ### the dangerous and hard path of the 'research tangent'
 
--(in page 23' of small black book)
- (y-axis is the value delivered)
- (x-axis is the project's time)
+- (in page 23' of small black book)
+  (y-axis is the value delivered)
+  (x-axis is the project's time)
 
  - over the project timescales, the value starts to be negative and keeps growing negatively as time-goes-by (until there is deliverable)
  - by the end of the graph there is an inflection point on the graph, with a high upwards acceleration, which then passes by another line was started linearly from the beginning
