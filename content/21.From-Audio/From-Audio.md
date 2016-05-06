@@ -1,3 +1,4 @@
+## From Audio - Rewrite and map to chapters
 (from audio transcription, rewrite in better english :) )
 
 ### Technical managers With Coding Skills
