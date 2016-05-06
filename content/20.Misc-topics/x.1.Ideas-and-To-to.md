@@ -43,6 +43,8 @@
    - [ ] Flame Graphs (Dev and security reviews). Using Flame Graphs to detect attacks and newly created vulnerabilities
    - [ ] Ollydbg - Amazing tool, specially its 'Animate Step-Trace' which records all executed lines
    - [ ] O2 Platform MethodStreams
+   - [ ] "Seven myths of software security best practices" http://searchsecurity.techtarget.com/opinion/McGraw-Seven-myths-of-software-security-best-practices
+   - [ ] "McGraw on why DAST and RASP aren't enterprise scale", http://searchsecurity.techtarget.com/opinion/McGraw-on-why-DAST-and-RASP-arent-enterprise-scale
 
 ### Books
 

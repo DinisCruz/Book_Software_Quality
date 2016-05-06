@@ -97,6 +97,7 @@ Misc-topics.md
 7.Books.md
 8.The-Brain.md
 x.ideas-and-to-do.md
+x.2.Quotes
 y.diagrams-to-create.md
 
 
