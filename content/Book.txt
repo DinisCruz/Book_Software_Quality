@@ -32,6 +32,7 @@ SecDevOps.md
 5.Two-dev-pipelines.md
 6.Incident-Response.md
 7.Hacking.md
+8.Security-Champions.md
 
 New-Paradigm-for-AppSec.md
 
@@ -86,6 +87,7 @@ Software-developement.md
 18.Threat-Modeling.md
 
 Misc-topics.md
+
 1.Concepts.md
 2.a.Security-past-vulns.md
 2.b.Security-dodged-bullets.md
@@ -102,3 +104,8 @@ y.diagrams-to-create.md
 
 
 From-Audio.md
+Created-in-2010.md
+Created-in-2016.md
+
+Diagrams.md
+1.Call-Flows.md
