@@ -109,3 +109,6 @@ Created-in-2016.md
 
 Diagrams.md
 1.Call-Flows.md
+2.Bug-code-review.md
+3.Dev-workflow-tdd-with-code-coverage.md
+4.Pair-programming-with-my-self.md
