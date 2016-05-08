@@ -114,3 +114,5 @@ Diagrams.md
 4.Pair-programming-with-my-self.md
 5.Test-execution-and-lack-of-visibility.md
 6.Web-services-repeater.md
+7.Issue-risk-lifecycle.md
+8.Writing-tests-at-multiple-levels.md
