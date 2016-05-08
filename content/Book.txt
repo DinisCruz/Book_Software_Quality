@@ -9,7 +9,7 @@ Quality-and-Security.md
 
 1.Measuring-Software-Quality-using-Application-Security.md
 2.Software-is-attacking-the-world.md
-3.3.New-generation-of-Application-Securtiy-Thinking
+3.New-generation-of-Application-Securtiy-Thinking.md
 4.Writing-secure-code-myth.md
 5.The-pollution-analogy.md
 6.Current-state-of-Application-Insecurity.md
@@ -98,8 +98,8 @@ Misc-topics.md
 6.Design.md
 7.Books.md
 8.The-Brain.md
-x.ideas-and-to-do.md
-x.2.Quotes
+x.1.Ideas-and-To-to.md
+x.2.Quotes.md
 y.diagrams-to-create.md
 
 
