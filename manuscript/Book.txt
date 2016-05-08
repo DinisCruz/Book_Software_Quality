@@ -120,3 +120,6 @@ Diagrams.md
 10.Call-stack-and-best-fix-location.md
 11.Webservice-methods-consumed-and-not-used.md
 12.Threat-modeling-templates.md
+13.War-blob-vs-micro-services-blob.md
+14.Multi-tenant-vs-single-tenant.md
+15.Website-in-dmz-with-jdbc-connection.md
