@@ -116,3 +116,7 @@ Diagrams.md
 6.Web-services-repeater.md
 7.Issue-risk-lifecycle.md
 8.Writing-tests-at-multiple-levels.md
+9.Authorization-matrix.md
+10.Call-stack-and-best-fix-location.md
+11.Webservice-methods-consumed-and-not-used.md
+12.Threat-modeling-templates.md
