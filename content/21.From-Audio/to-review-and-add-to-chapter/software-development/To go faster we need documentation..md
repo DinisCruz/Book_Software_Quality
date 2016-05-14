@@ -1,4 +1,4 @@
-**To go we need documentation**
+**To go faster we need documentation**
 
 The more you go, the more you need, understand and test. One interesting concept or group thing that can have on agile teams especially the ones that start to shift really fast is the idea that you don't need documentation, you don't need briefs, you don't technical documents, or sometimes you don't need tests but especially you don't need documentation.
 

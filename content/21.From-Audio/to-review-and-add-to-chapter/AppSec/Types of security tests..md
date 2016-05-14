@@ -2,7 +2,7 @@
 
 How to review a test and figure out if it is a network security assessment or an application security assessment. When you look at a pen. test, you can tell very quickly if it was done by somebody who understands application security, i.e. somebody who can code, a programmer or somebody which is a very good external penetration test.
 
-So what it means is somebody who most likely cannot really code very well, but might have a very good security instinct or security knowledge from a network security. 
+So what it means is somebody who most likely cannot really code very well, but might have a very good security instinct or security knowledge from a network security.
 
 And you could see, so the first main telling point is if they asked for the source code and they did threat model on the application. If they didn't do that, then you can definitely see that most likely it is going to be a network security assessment.
 

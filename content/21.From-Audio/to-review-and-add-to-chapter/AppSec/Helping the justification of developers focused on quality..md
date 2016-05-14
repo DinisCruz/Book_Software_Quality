@@ -1,4 +1,4 @@
-**Helping the justification of developers focused quality**
+**Helping the justification of developers focused on quality**
 
 Helping architects to ring fence resources for our quality. Every now and then, you find an application manager, an architect or a dev lead that is actually able to ring fence some developers for non function requirements. Things like quality, performance, dev opps, testing e.t.c
 
