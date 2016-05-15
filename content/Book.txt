@@ -123,3 +123,4 @@ Diagrams.md
 13.War-blob-vs-micro-services-blob.md
 14.Multi-tenant-vs-single-tenant.md
 15.Website-in-dmz-with-jdbc-connection.md
+16.Http-to-https-transition.md
