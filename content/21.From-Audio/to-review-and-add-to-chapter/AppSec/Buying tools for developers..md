@@ -1,15 +1,15 @@
 **Buying tools for developers**
 
-App sec should buy tools for developers. One other great opportunity to create goodwill and relationships with developers for the application security team to actually find the budget for tools, get developers more productive.
+App sec should buy tools for developers. This is a great opportunity for the application security team to generate goodwill and positive working relationships with their developers. If the app sec team is able to actually find the budget for tools, it will help developers be more productive.
 
 Two great examples would be whether be is for java script developers, n crunch, is for .net development you always kind of find in organizations teams where for some reason management hasn't seen as a priority tool for developers.
 
-And I think that it is a good opportunity for security teams to buy those tools and give them to those developers as at will but also as a sign of, "hey we need you to write more tests, when you can write more tests we can write our abuse cases" so this is actually a security not necessarily development tool.
+It's a good opportunity for security teams to buy those tools and give them to developers at will, but also as a sign of, "Hey, we need you to write more tests and when you're able to write more tests, we can write our abuse cases". So this is actually more a security tool than a development tool.
 
-Of course it is a development tool, what we are doing, we are improve in it ability for that team to write better tests and we are also creating good relationships for the developers.
+That being said, it of course is also a development tool purely in terms of what we're doing. We are improving the ability for that team to write better tests and we're also creating good relationships for the developers.
 
-The concept of making developers more productive I think is something that has to really permeate everything that the application secures. One of the key objectives of the app sec team is to make their firm productive. And so everything we can do to make them better for me, is fair game.
+The concept of making developers more productive, I think, is something that has to really permeate everything that the application secures. One of the key objectives of the app sec team is to make their firm more productive. With that said, everything we can do to make them better is fair game.
 
-Now the reality is their is a kind where we do need to ask them to do some sins for security. For example some of the SSL security stuff, it is kind of negative developers don't really need it. But that is a good example of if we have enough goodwill and balance in the bank, again I would like to think of karma points then we can wait to actually push those changes.
+Now the reality is that sometimes we do need to ask them to do some sins for security. For example, some of the SSL security stuff is kind of negative and developers don't really need it. But that's a good example of how, if we have enough goodwill and balance in the bank, we'll be able to work with karma points and we can wait to actually push those changes.
 
-If we always are seen guess as the source of work, we doesn't add value just to make their lives more complicated and they aren't going to do it. In fact, a really good comment I heard from some developers they used to say they are neutral, they view all sorts of requests in a way from every part of the business as kind of important but then it focus on the ones that ultimately they get rewarded more or they see more value. Which is kind of why we need to put app security in the area of adding value to developers and the business.
+If we are always seen as the source of work and it seems like we're not adding value, but instead, just making their lives more complicated, they aren't going to do it. In fact, a really good comment I heard from some developers is that they are "neutral" -- they view all requests from all parts of the business as relatively important, but then they focus on the ones that they get rewarded most for or in which they see the most value. This is the very reason why we need to put app security in the area of adding value to developers and the business.
