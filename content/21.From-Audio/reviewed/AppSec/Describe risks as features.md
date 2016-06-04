@@ -1,17 +1,22 @@
-**Describe Risks as Features Rather than Wish Lists**
+**Describe Risks as Features rather than as Wishes**
 
-It is key to describe the exact behavior and not just what you think; so instead of saying that an application should encode value, you should say that the application doesn't encode value. 
+When opening up a risk JIRA ticket, it is key to describe the exact behavior of that issue **as a feature**, versus how you would like to see happening (i.e your wish list).
 
-You don't say an application shouldn't be vulnerable to scripting or SQL injection, you say this application is vulnerable to SQL injection.
+For example:
 
-And that is key, because when you're describing vulnerabilities, you're describing features. Vulnerability is a feed of an application, and if an application is a direct opposite reference, then that is a feature. User A uses B data.
+- instead of saying _'application should encode XYZ value'_, you should say that _'XYZ value is not encoded'_
+- don't say an _'application shouldn't be vulnerable to XSS or SQL injection'_, you say _' application is vulnerable to SQL injection'_. In this case SQL Injection is a **feature** of the application, and while the application allows SQL Injection, the application is working as designed (whether that is intended or not, that is a different story :) )
 
-That is the risk you open, so the idea is that risks should represent the feature. And in fact, sometimes you open risks for the same feature, because what you want is to allow technical and business audiences to understand what is going on.
+When describing vulnerabilities, what we are doing is describing features.
 
-Sometimes you have to say we have a direct opposite reference vulnerability here risk you also open to the one that says user A can access user B. In a way they are dependent because one is caused by the other.
+Vulnerability is a feature of an application
 
-I remember this funny story where I had an SQL injection and the business would say, "Well, we have backups with good database backup, so SQL injection is not our problem." And I can drop all tables and they go, "Yeah but we can recover from that very first problem." 
+If an application has an direct object reference vulnerability (OWASP Top 10), then that is a feature that allows _User A to access user B data_ (by design, using capabilities of the application).
 
-And they might argue, "Well we can delete data." They will go, "Well we have read only access and we can protect it from there." Then I am sure they'd say, "Well we can log in as end user with a typical single code as or 1=1...and then we will fix that."
+For each of these cases, you need to open Risk tickets, since the idea is that those risks represent  existing features. Sometimes you open multiple risks for the same issue, allowing technical and business audiences to understand what is going on (SQL Injection doesn't mean a lot to management, but _'Access and modify all customer data'_ does).
 
-Because suddenly, I was able to show that I pass the business logic of the application using 02 and that is the big problem. It isn't about data corruption or deciality in this particular case. It's about business logic, the lack of rebiviation of knowing which user actually did what.
+I remember a funny story where we found SQL injection in a pentest, and when we presented the findings, the business actually said: _'... well, that is not a critical issue, we have good backups, so that SQL injection is not that dangerous'_. When we asked _'what about if we can dropped all tables?'_ , they said _'ok, but we can recover from that very fast, so no problem.'_
+
+We would argue _'well ... we can modify data'_ and they will go, _'well ... we have read-only access and we can protect it from there.'_. But then, when we showed them that _'we were able to log in as any user with a typical SQL Injection payload of: or 1=1_' that really connected the dots and they said _'... ahh, yeah ... we will fix that ASAP'_
+
+The reason that example clicked, was because we showed them how to bypass the business logic of the application using the SQL Injection **'feature'**. They were ok with data corruption or content changes (sort off), the problem was bypassing the application's business logic and break their anti-repudiation capabilities (i.e. losing the ability  to understand what an user actually did on the site).
