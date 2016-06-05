@@ -1,6 +1,6 @@
-###  pplication security teams need developers
+###  Application security teams need developers
 
-App sec teams need to have developers under their control, i.e. part of their team, because when we ask dev teams to make changes or implement certain activities like create Threat Models, perform code reviews, validate static analysis findings, build an authorization solution, etcetera, we are giving them work.
+AppSec teams need to have developers under their control, i.e. part of their team, because when we ask dev teams to make changes or implement certain activities like create Threat Models, perform code reviews, validate static analysis findings, build an authorization solution, etcetera, we are giving them work.
 
 Additionally, it is very important that when we do that, we come to the table with resources in hand. The idea is that AppSec needs to have developers that are as good as the developers on the other side of the table.
 
