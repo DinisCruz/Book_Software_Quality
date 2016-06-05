@@ -1,9 +1,23 @@
-### Protecting Legal and Compliance Text on Websites.
+### Protecting Legal and Compliance Text on Websites
 
-To do this, you find data that has to be signed off on by lawyers, for example, translations or legal notices on a website. You then assign risk to them based on the QA software development life-cycle maturity.
+Find data on your websites that has to be signed off on by lawyers, for example, translations or legal notices.
 
-One example of this is the QA ability to test the integrity of that data. A weak SDL is an SDL in which you have very little source control, have several different developers accessing it, or have loads of javascript being injected on the web application, namely ads.
+You then assign Risks based on current QA's SDL maturity and capabilities (i.e. it's ability to protect/detect that text from changes).
 
-This results in an inability to guarantee the integrity of the data that exists on the website.
+What to look for:
 
-This will highlight all sorts of gaps in a QA SDL work flow and the QA test environment. For example, lead against production and check that the legal text is still there and hasn't been changed.
+ - very little control over the integrity of the code/content
+ - several different developers accessing it without strong code review checks
+ - loads of javascript being injected on the web application (namely ads)
+ - small numbers of tests executed against live production systems
+ - no ability to easily write tests that confirm the integrity of data
+
+What usually happens is an inability to guarantee the integrity of the data that exists on the website, which for the lawyers that signed off those legal and compliance texts, is a BIG deal.
+
+Asking the question _'can we run a test against production and check that the legal text is still there and hasn't been changed?'_ will highlight all sorts of gaps in a QA SDL workflow and environment.
+
+What this means is that suddenly the security and QA capabilities of an application are important to the lawyers/compliance teams, who will ask for assurance on that content.
+
+We will then have a situation where they are the ones that are putting pressure to have a much more solid SDL with a lot more testing.
+
+This becomes very real, when the Risk caused by: rushed projects, weak briefs, code that is pushed into production with no security checks; is also assigned to lawyers.

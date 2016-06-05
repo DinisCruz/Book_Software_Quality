@@ -1,8 +1,8 @@
-**Buying tools for developers**
+### Buying tools for developers
 
 AppSec should buy tools for developers. This is a great opportunity to generate goodwill and positive working relationships with developers. If the app sec team is able to actually find the budget for tools, it will help developers be more productive.
 
-Two great examples are WallabyJS for javascript and Ncrunch for .Net
+Two great examples are [WallabyJS](https://wallabyjs.com/) for javascript and [NCrunch](http://www.ncrunch.net/) for .Net
 
 Inside an large organization, you fill find teams where for some reason or another, management hasn't seen as a priority to invest in tools for developers.
 

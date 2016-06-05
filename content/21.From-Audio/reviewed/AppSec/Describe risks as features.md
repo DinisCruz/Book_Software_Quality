@@ -1,4 +1,4 @@
-**Describe Risks as Features rather than as Wishes**
+### Describe Risks as Features rather than as Wishes
 
 When opening up a risk JIRA ticket, it is key to describe the exact behavior of that issue **as a feature**, versus how you would like to see happening (i.e your wish list).
 
