@@ -1,0 +1,7 @@
+**Tests Must Always Pass.**
+
+The reason tests must pass all the time is because tests represent the test of applicable behavior. So when you try out a test and that goes through all the steps required to test that behavior whether is that something simple or something rather complex, it doesn't matter. Whether that is a method or a full blown integration test that sends stuff and gets some email and replies the email and populates the bearing on the website it doesn't matter, it is still a test. And basically what you want is to make sure that you have a success criteria for that particular test.
+
+And that is why the test should pass, and it should pass because ultimately they should fit into continuous integration pipeline which will allow the current accepted behavior of the application to be signed off. And that is what happens when the current behavior of the application with these bugs which is security issues exists wherever its state is then that is where we are.
+
+And ideally I recommend to keep these tests especially the security tests on a separate location because then what it means, it means that we can keep track of what they really mean. So that means that you have multiple types of tests which represent multiple type of things, some represents features, some represents bugs, some represents issues, some represents performance problems and each one should be in separate location.
