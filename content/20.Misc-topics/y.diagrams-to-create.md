@@ -22,4 +22,4 @@
   - "(the bicycle analogy might be a good one to make here)
     - Computers are like a bicycle for our minds" [^jobs-bicycle]
 
-[^jobs-bicycle]: https://www.youtube.com/watch?v=ob_GX50Za6c    
+[^jobs-bicycle]: https://www.youtube.com/watch?v=ob_GX50Za6c  , https://www.quora.com/What-inventions-highlight-some-of-history%E2%80%99s-most-ingenious-radical-or-outside-the-box-thinking/answer/Idan-Bass?srid=vG0y (original source graphs of "The bicycle improved humanity’s energy cost of transportation")
