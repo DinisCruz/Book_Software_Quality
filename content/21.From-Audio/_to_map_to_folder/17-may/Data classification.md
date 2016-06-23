@@ -1,11 +1,11 @@
 ### Data classification.
 
-Every type that exists in organization especially on applications needs to have a classification for its value which is what is usually called data classification.
+Every type of data that exists in organization, especially on applications, needs to have a classification for its value. This is typically called data classification.
 
-So, this means that we need to know if a particular piece of data is sensitive, where is it going to be used, what is the value of it for the business?
+This means that we need to know if a particular piece of data is sensitive, where it is going to be used, and what value it holds for the business.
 
-And usually, the best way to determine that is to ask for a particular set of data, what will happen if it was disclosed? What will happen it was put on paste bin or modified?
+Usually, the best way to determine the aforementioned is to ask what would happen if a particular set of data were to be disclosed, put on paste bin or modified?
 
-And that is always a good question because then you start to understand the value of that. Most companies tend to have data classification in terms of business. So, info sec data classification. But you also need app sec, mapping.
+Those are always good questions, because then you start to understand the value of that particular data set. Most companies tend to have data classification in terms of business. So, info sec data classification. But you also need app sec, mapping.
 
-So, you need to understand is this a password, is this mission critical, is this something that will end up being displayed on the user? So, is this a legal contract, basically is this a piece of information that has value and needs to be protected?
+So, you need to understand what you're dealing with -- is it a password, mission critical, or something that will end up being displayed on the user? The goal is to gain an understanding of whether or not it is a piece of information that has value and needs to be protected.
