@@ -1,6 +1,6 @@
 # Misc Topics
 
-The content in this section are concepts that need to be added to a particular section of of the book.
+The content in this section are concepts that need to be added to a particular section of the book.
 
 I'm adding them here since it is easier and faster to move the draft notes I have made on my 'analog notebook' first into this section.
 
