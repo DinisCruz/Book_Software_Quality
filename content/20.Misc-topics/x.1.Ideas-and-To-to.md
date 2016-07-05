@@ -4,7 +4,7 @@
 
   - [ ] ... doing a pentest and finding massive issues on a particular website of a particular county and being asked by the representatives of that country, 'who owned that website'
   - [ ] ... Swiss version of NDAs)
-  - [ ] ... PM that was managing an retest and demanded that 'no new issues could be found')   
+  - [ ] ... PM that was managing a retest and demanded that 'no new issues could be found')   
   - [ ] ... DNS Pinning and streaming music over DNS. IP over DNS proxys (that provide internet access to airports)
   - tell Christopher columbus egg story and 'the pt discovered it'
 
@@ -17,7 +17,7 @@
   - [ ] Development teams are made of non-experienced developers who don't understand the application they are writing
   - [ ] QA teams need to have developers good enough to be hired by the dev team
   - [ ] Food analogy for software, one ingredient can ruin the whole thing
-  - [ ] one of the probs in software is it's lack real isolation between layers (vs nature that has)
+  - [ ] one of the probs in software is it lacks real isolation between layers (vs nature that has)
   - [ ] coding in 'the zone'
   Real-stories of Vulnerabilities discovered (and map them to quality or testing issues)
   - [ ] Login by pass via checkbox
@@ -25,7 +25,7 @@
   - [ ] ModelAttribute vuln in Mortgage application base class
   - [ ] add reference to story about evolution of Ramsonware ('ok panic now')
   - [ ] add XStream stories and research
-  - [ ] add examples from series of my blog posts written about what is really needed to test a webservice. Analogy with food components mappings (or calories counting). Doesn't matter if it complex, what matters is that is can be done
+  - [ ] add examples from series of my blog posts written about what is really needed to test a webservice. Analogy with food components mappings (or calories counting). Doesn't matter if it is complex, what matters is that is can be done
   - [ ] add graph (and link article/blog-post) that showed the security cost of technology (to society) intersecting with the value of technology (to society)
   - [ ] add page to frontmatter with the diagrams that exit in the book (hyperlinked if seen on the web)
   - [ ] review recommendations in "How InfoSec Security Controls Create Vulnerability",https://blogs.technet.microsoft.com/johnla/2016/02/20/how-infosec-security-controls-create-vulnerability/
@@ -79,7 +79,7 @@
     - fines - 5% of annual worldwide revenue or €100M
   - "The software industry is the problem" -  "Poul Henning Kamp
      http://m.cacm.acm.org/magazines/2011/11/138202-the-software-industry-is-the-problem/fulltext
-     - "The time has come for software liabiity laws
+     - "The time has come for software liability laws
      - (see 3 clauses for straw-man proposal for a software liability law)
 
 
