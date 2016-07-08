@@ -7,14 +7,14 @@
   (x-axis is the project's time)
 
  - over the project timescales, the value starts to be negative and keeps growing negatively as time-goes-by (until there is deliverable)
- - by the end of the graph there is an inflection point on the graph, with a high upwards acceleration, which then passes by another line was started linearly from the beginning
+ - by the end of the graph there is an inflection point on the graph, with a high upwards acceleration, which then passes by another line which started linearly from the beginning
 
   - happens when one decides to build a tool to help with the current task.
     - for example a tool to parse DWR (Java's Dynamic Web Remoting) services
   - this means that until the tool works we are actually delivering negative value to the customer
     - because while we are building the tool, we are not working on the task at hand
 
-  - This (diagram) is why our are brains prefer to:
+  - This (diagram) is why our brains prefer to:
     - do something safe, not very effective, but with slow and predictable deliverables
     vs
     - do something risky but highly effective (if it works)
