@@ -13,3 +13,5 @@ But the interesting thing is that if you have a very good test environment, a ve
 The hard part is when you don't have good test environments or good development environments, those questions are really hard because nobody really knows if the issue at hand or the question at hand is a problem or not, you are left hanging with an interesting question.
 
 And the way I look at it, not being able to answer a question is security issue in itself because it represents again the shadow of a bigger problem which is lack of understanding how the code works.
+
+(see https://twitter.com/DinisCruz/status/752160002685689856 for example of what these shadows of a vuln look like)
