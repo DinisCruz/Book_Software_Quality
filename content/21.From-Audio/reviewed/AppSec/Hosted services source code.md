@@ -4,7 +4,7 @@
 
 This article discusses the need for companies providing hosted application solutions to provide the source code of their application.
 
-One reason is to allow the offload hosting of their data as well as the easy backup and restore of their data.
+One reason is to allow the offline hosting of their data as well as the easy backup and restore of their data.
 
 The second reason is to allow the emergence of third party companies and people who also provide those hosting services -- this will make the platform much more robust and effective.
 
@@ -14,9 +14,9 @@ This is interesting, because essentially it's arguing that Amazon should open th
 
 However, the concept is that for us to be able to trust and use this, and even somehow be able to consume it in multiple different places, we need it to be open and consumable. That's a big step for companies to take.
 
-In some ways, it's already happening. There are actually several examples of companies that provide a service and keep it open source. 
+In some ways, it's already happening. There are actually several examples of companies that provide a service and keep it open source.
 
-I think you already have two variations: 
+I think you already have two variations:
 
 1) You have companies who start as a tool, perhaps hosting a tool or a blog engine, and then eventually the owners of it realize that they should also provide hosting services. The code is already open source and now it just also provides hosting services on top of it.
 
