@@ -1,8 +1,6 @@
 ### Hosted Services Source Code
 
-*Need for companies that provide hosted web services to also provide the source code for their apps.*
-
-This article discusses the need for companies providing hosted application solutions to provide the source code of their application.
+*The need for companies providing hosted application solutions to also provide the source code of their application.*
 
 One reason is to allow the offline hosting of their data as well as the easy backup and restore of their data.
 
