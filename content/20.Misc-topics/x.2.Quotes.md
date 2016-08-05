@@ -11,7 +11,7 @@
     - De-americanalize the internet
     - Hacking laws - legalize it
   - "The right to privacy in the digital age", Resolution 68/67 UN General Council
-  - "The US Surveillance programs and their impact on Eu citizen rights" (Eu Parliament)
+  - "The US Surveillance programs and their impact on EU citizen rights" (EU Parliament)
   - "A full industrial policy for development of an autonomous cloud computing capability based on Free/Open-Source software"
   - "This is your last chance, after this there is no turning back. You take the blue pill, the story ends, you wake up in your bed and believe in whatever you want to believe, You take the red pill, you stay in wonderland, and I show you how deep the rabbit hole goes. Remember, all I'm offering is the truth, nothing more", Morpheus to Neo, The Matrix
   - "security features are not necessarily secure features"
