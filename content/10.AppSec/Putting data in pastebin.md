@@ -8,8 +8,8 @@ Ideally, the correct answer is yes, there is no problem. All that data could go 
 
 That's what you really want, you want your database to be in a situation where there is nothing truly valuable in there when it exists by itself:
   - all the sensitive data is encrypted
-  - all the ID are be tokenized
-  - there is be way to de-anonymize that data
+  - all the ID are to be tokenized
+  - there is a way to de-anonymize that data
   - every single asset in there should be random from the point of view of the database itself
 
 The Threat Model of a database with sensitive data vs one without is very different (which is another great way to visualize the differences)
