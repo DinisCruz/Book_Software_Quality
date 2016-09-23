@@ -1,4 +1,4 @@
-**Broken Tests Aren't The Problem.**
+**Broken Tests Aren't The Problem**
 
 It is quite worrying how many times you hear complains about test's execution (for example their speed or how hard they are to maintain)
 
