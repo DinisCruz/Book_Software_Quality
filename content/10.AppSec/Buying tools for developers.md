@@ -4,7 +4,7 @@ AppSec should buy tools for developers. This is a great opportunity to generate 
 
 Two great examples are [WallabyJS](https://wallabyjs.com/) for javascript and [NCrunch](http://www.ncrunch.net/) for .Net
 
-Inside an large organization, you fill find teams where for some reason or another, management hasn't seen as a priority to invest in tools for developers.
+Inside a large organization, you will find teams where for some reason or another, management hasn't seen as a priority to invest in tools for developers.
 
 It's a good opportunity for security teams to buy those tools and give them to developers saying "Hey, we need you to write more/better test APIs, so that we can write our abuse cases using them". So this is actually more a security tool than a development tool.
 
