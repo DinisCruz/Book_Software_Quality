@@ -2,7 +2,7 @@
 
 ### stories to add:
 
-  - [ ] ... doing a pentest and finding massive issues on a particular website of a particular county and being asked by the representatives of that country, 'who owned that website'
+  - [ ] ... doing a pentest and finding massive issues on a particular website of a particular country and being asked by the representatives of that country, 'who owned that website'
   - [ ] ... Swiss version of NDAs)
   - [ ] ... PM that was managing a retest and demanded that 'no new issues could be found')   
   - [ ] ... DNS Pinning and streaming music over DNS. IP over DNS proxys (that provide internet access to airports)
