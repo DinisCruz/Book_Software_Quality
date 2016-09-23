@@ -1,6 +1,6 @@
 **The business model of selling a fork**
 
-One open source based business model that I really like, is the idea that the company (or team) behind a particular open source project, sells a fork of the master repository, that is customised and/or maintained for a particular customer.
+An open source based business model that I really like, is the idea that the company (or team) behind a particular open source project, sells a fork of the master repository, that is customised and/or maintained for a particular customer.
 
 What that means is the customer buys access to a fork, from the authors of that particular code/repo/project.
 
