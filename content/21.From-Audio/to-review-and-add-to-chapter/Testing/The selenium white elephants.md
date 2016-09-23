@@ -23,3 +23,5 @@ So all in all you have this very interesting reward system where the developer s
 The other interesting factor is to consider how much time developers spend clicking on things. How much time developers actually make account change, have to go to a site do a service or something, invoke it, figure out what happened, come back to it, and do that.
 
 So, think about it, the selenium test already knows how to get there, the browser automation test already knows how to get to a particular location. So, what it means, it means that if you allow the developers to run this, then they are becoming more productive. The quality and the resilience and the effectiveness of the code just goes way up and they code way faster. And what this also leads to is eventually the creation of DSLs which is the main specific languages for the tests.
+
+> todo: add reference to good example of selenium use (as couter point)
