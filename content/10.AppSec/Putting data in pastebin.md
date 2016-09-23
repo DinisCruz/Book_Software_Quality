@@ -1,6 +1,6 @@
 ### Putting Data in PasteBin
 
-One of the best ways to make Developers, Architects and Managers understand confidentiality of data hosted by their application, is to ask the question, _'Can we put all of the data on your database on PasteBin?'_' [^PasteBin]
+One of the best ways to make Developers, Architects and Managers understand confidentiality of data hosted by their application, is to ask the question, _'Can we put all of the data on your database on PasteBin?'_ [^PasteBin]
 
 That question makes all parties involved really think about what that database contains.
 
