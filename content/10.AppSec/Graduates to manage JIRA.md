@@ -5,7 +5,7 @@ Note that, in large organizations, the number of risks opened and managed should
 
 The solution isn't to have less issues. 
 
-The solution to help improve and manage these issues is to allocate resources. For example graduates or recently hired staff. 
+The solution to help improve and manage these issues is to allocate resources for example to graduates or recently hired staff. 
 These are inexpensive professionals that want to go into app sec or just want the job to get a foot in the door at the company. It's one of those easy, win-win situations which will allow them to meet a lot of people and really get their heads around what is going on.
 
 This will mean that the developers can actually spend time fixing the issues instead of maintaining JIRA. 
