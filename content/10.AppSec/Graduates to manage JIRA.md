@@ -6,12 +6,13 @@ Note that, in large organizations, the number of risks opened and managed should
 
 The solution isn't to have less issues. 
 
-The solution to help improve and manage these issues is to allocate resources for example to graduates or recently hired staff. 
-These are inexpensive professionals that want to go into app sec or just want the job to get a foot in the door at the company. It's one of those easy, win-win situations which will allow them to meet a lot of people and really get their heads around what is going on.
+The solution to help improve and manage these issues is to allocate resources, for example to graduates, or recently hired staff. 
+
+These are inexpensive professionals that want to go into app sec, or just want the job to get a foot in the door at the company. It's one of those easy, win-win situations which will allow them to learn massively, meet a lot of key people and really get their heads around what is going on.
 
 This will mean that the developers can actually spend time fixing the issues instead of maintaining JIRA. 
 
-This maintenance is critical for the JIRA RISK workflow to work, because one of its key properties is that it is up to date and that it behaves as a 'source of truth'. 
+The maintenance of issues is critical for the JIRA RISK workflow to work, because one of its key properties is that it is up to date and that it behaves as a 'source of truth'. 
 
 It is key that risks are accepted, followed up on, and issues never moved into the dev's backlog (where they will be lost forever).
 
