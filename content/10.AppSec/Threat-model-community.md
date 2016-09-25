@@ -1,4 +1,4 @@
-**Threat Model Community**
+### Threat Model Community
 
 There is currently (late 2016) space within the application security world to develop a community focused on Threat Modeling. Such community would allow the many parties working on Threat Modeling to share information and provide a voice to all different stakeholders.
 
