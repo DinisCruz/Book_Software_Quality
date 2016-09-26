@@ -1,9 +1,9 @@
 **Capture the success stories of your threat models **
 
-The key element of doing threat modeling is that it can highlight all sorts of interesting issues and blind spots in particular architecture. And one of my favorite comments, a very powerful comment is when the people involved, the developers and the architects do a threat model and they realize something that they hadn't noticed before.
+One of the key elements of threat modeling is it's ability to highlight a variety of interesting issues and blind spots, in particular within the architecture of the threat model. One of my favorite comments, a very powerful comment, can arise when the developers and the architects working on a threat model realize something that they hadn't noticed before.
 
-Sometimes the developer who says, "oh, I never realized that that is how it worked!", or an architect who said, "well, this is the designer, this is the design", and the dev goes and says, "well, but that didn't work, so we did it like this".
+In such cases, sometimes it is the developer who says, "Oh, I never realized that is how it worked!", or an architect says, "Well, this is the designer, and this is the design they produced", and the developer may then respond, "But that didn't work, so we did it like this."
 
-And what you are doing is, you are actually mapping reality. You are basically having a much better understanding of what reality actually means on the company. And basically what you are doing is you are mapping truth, threat model becomes a single source of truth of the company.
+What is actually happening when such exchanges take place is the mapping of reality, and the creation of a much better understanding of what reality actually means within the company. Truth is being mapped, and the threat model becomes a single source of truth for the company.
 
-And what is very important is to capture those successes, and to be able to advertise and promote and say this is one of the reasons why you want to do threat model, is because you want to understand what is going on, you want to make sure that everybody is in the same page in terms of development and QA and testing and everything.
+It is very important not only to capture these success stories, but also to advertise and promote them. Promoting them allows you to explain one of the reasons why you want to work in threat modeling; because you want to understand what is going on, and you want to make sure that everybody working on a threat model is on the same page in terms of development, QA, testing, and so on.
