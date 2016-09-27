@@ -1,5 +1,5 @@
-**Do you have an app sec team?**
+**Do you have an AppSec team?**
 
-Let's be clear, if you don't have a team of highly skilled professionals who understand application security, who can program better than most of your developers, who will be totally hire able by your team, who spend their day keen to write security code, finding vulnerabilities, commit security assessments, reviewing threat models, working with security champions across the company, if you don't have those, you don't have a team.
+Let's be clear. If you don't have a team of highly skilled professionals who understand AppSec, who can program better than most of your developers, and who will be totally hireable by your team, then you don't have the best possible team.  What you want is an AppSec team that is keen to write security code, find vulnerabilities, commit security assessments, review threat models, and work with security champions across the company. 
 
-An info sec team which is very important to do all those things, but you don't have an app sec team which basically means you don't know if your apps are sec or not. 
+An InfoSec team is also very important to perform this type of work, but if you don't have an AppSec team you simply don't know if your applications are secure or not. 
