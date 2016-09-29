@@ -14,3 +14,4 @@ And ultimately with strings we have much less assurance of the data that we are 
 Concepts: 
 - Strings are not strongly typed
 - String is not a type
+- add @johnwilander post on strings
