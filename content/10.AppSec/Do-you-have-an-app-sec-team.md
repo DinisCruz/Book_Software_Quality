@@ -6,8 +6,32 @@ An InfoSec team is also very important to perform this type of work, but if you 
 
 What you want is an AppSec team that is keen to write security code, find vulnerabilities, commit security assessments, review threat models, and work with security champions across the company.
 
-For reference:
+**Definition:**
+
 - AppSec is about:
-  - code, apps, CI, secure coding standards, threat models, frameworks, code dependencies, QA, testing, fuzzing, dev environments, DevOps, ….
+  - code, apps, 
+  - CI, 
+  - secure coding standards, 
+  - threat models, 
+  - securing frameworks, 
+  - managing code dependencies, 
+  - QA, 
+  - testing, 
+  - fuzzing, 
+  - dev environments, 
+  - DevOps
+  
 - InfoSec is about:
-  - Networks, Firewalls, Server security, Anti-virus, IDS, Logging, NOC, Policies, end-user security, mobile devices, AD/Ldap management, user provisioning, DevOps, ….
+  - Networks, Firewalls, 
+  - Server security, 
+  - Anti-virus, 
+  - IDS, Logging, 
+  - NOC, 
+  - Security Policies, 
+  - end-user security, 
+  - mobile devices, 
+  - AD/Ldap management, 
+  - user provisioning, 
+  - DevOps
+
+There are some overlaps (like in DevOps), but in most cases they are very separate domains. AppSec is in the developer domain. Infosec is everything else :)
