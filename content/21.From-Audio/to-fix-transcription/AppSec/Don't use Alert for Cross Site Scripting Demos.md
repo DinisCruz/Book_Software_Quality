@@ -1,0 +1,15 @@
+**Don't use Alert for Cross Site Scripting Demos**
+
+Popping up an alert is actually a very dangerous thing to show to a client or to business owner if that is the only demo that you have. The problem is, an alert doesn't mean anything, it does means that there is a minor inconvenience on a particular application. Where what you need to do is actually create demos that exploit the business of the application, so show how bad and how dangerous it will be if the application itself is running malicious java script.
+
+So this is where you want to do things like changing the logo, adding disclaimers that will freak out the legal department, doing transactions on behalf of the users, modifying the user's content, preventing the users from actually doing things on the actual page.
+
+And what this means is it means you are translating what does malicious java script execution actually means in a particular business. And the good news is you don't actually need the cross site scripting demo to do this, you can do this anyway because you can always simulate injecting java script. And sometimes an easy way to do that is if there is any non-TLS traffic flightier up that could be used to inject that or you can just inject it directly to the script on the browser or on the server.
+
+Then once you do have a cross site scripting example on the application you just use that same demo. And this is very powerful because you are really showing the dangers of it and in a way once you have what it is, you can show the alert, you can show the pop up because the way that proves the point, but i have also seen cases where you know for some reason the pop up wasn't actually easy to execute, but you could still run arbitrary scripts even java scripts.
+
+So yeah sometimes don't get to hang on, on actually trying to pop up the point is to execute java script. One interesting example is if you look at some angle applications, so applications that have some protection, the fact that you can actually do cold call backs into the application means that sometimes although you might not have access to full java script suite of coding capabilities, you can still do a huge amount of damage especially if you are now reusing tokens that have a lot of power in the back end. 
+
+So a script can actually invoke some command that is actually going to heat the back end as the current user. Although it isn't full blown remote code execution, that might be enough. A typical example is you find putting a bit of payload on a page of an HR system that is supposed to improve a time sheet and the only script I can run is actually script that exists on that page for the administrator or the HR manager to approve a particular time sheet then that is all the attacker needs or in that case to exploit that application.
+
+So, key thing is the alert should only be shown when the audience understands what that means.
