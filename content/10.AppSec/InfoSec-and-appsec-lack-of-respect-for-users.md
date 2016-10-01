@@ -1,4 +1,4 @@
-### InfoSec lack of respect for users
+### InfoSec (and AppSec) lack of respect for users
 
 InfoSec (Information Security) tends to have a really bad attitude towards end-users of technology and developers, where they (the users) get blamed for doing 'insecure stuff' and causing 'security incidents'.
 
