@@ -1,21 +1,17 @@
-**Who Is Paying For App Sec**
+**Who is Paying for AppSec?**
 
 Who is paying for secure software and secure coding standards?
 
-So, one of the interesting questions when we talked about the need for open sourcing security coding technology and security coding centers and all that we need to actually build threat secure code is; who is paying for it?
+One of the interesting questions that arose when we talked about the need for open-source security coding technology, security coding centers, and everything we need to build threat secure code is: Who pays for it?
 
-Unfortunately in the past we tried to do the pure commercial model and I don't think that has been very successful. It means that we have a lot of good stuff going on in individual companies, there isn't a lot of collaboration, there isn't a lot of actually sharing of technology. Which is something that needs to be done centrally, in a way it needs to be done from a central organization that cares for example about the problem at the biggest count.
+Unfortunately, in the past we tried to follow a purely commercial model, and I don't think that has been very successful. It means that while individual companies are doing a lot of good work, there isn't a lot of collaboration, and there isn't a lot of sharing of technology. This is something that needs to be done centrally, from a central organization that cares about the problem at the highest level.
 
-So, how do we pay for all this? Well looking at the best place to pay for this is for companies and governments to chip in into individual organizations, or independent organizations. Who then are able to hire very talented individuals, who are then able to actually work on the solutions and push solutions in open way where their whole agenda is to solve the problem.
+But, how would we pay for all this? Well, the best way is for companies and governments to contribute to an independent organization. The organization can then hire very talented individuals, who can work on solutions and push solutions in an open way because their only agenda is problem solving. 
 
-That is actually one of the things I feel that happens to me once I start working for the client i.e. the company who actually have to solve the problem where you totally change the way you think about problems. 
+That is something I've noticed happening to me once I start working for a client--i.e. a company who has a real problem to solve. Once I start working for them, solving their problem becomes my major focus, instead of thinking commercially and trying to sell my services to the customer.
 
-You go from being a vendor where you try to sell your services or ultimately part of your objective either basically or even just accessibly is to lock in the customer to your services and to what you do or to sell more stuff like that. Where suddenly the focus becomes actually how to solve the problem, or how to make things work in our world.
+So, the idea here is collaborative, and we have an economic model for this. The book Zero Marginal Cost Society talks about this in detail and provides a financial indicator model for how this should work.
 
-And this means that what you need is to have all these organizations chipping in into that common organization that will actually be the one that drives it forward.
+Should governments be driving this initiative? Yes. Do governments have any clue how to drive this initiative? Most of them don't, so in the short term I think the solution is for companies to take the lead. 
 
-So, the idea here is collaborative comments that is the economic model that we have. The book Zero Marginal Cost Society talks to this in great extent and is actually a great financial indicator model for how this should work.
-
-Should governments be driving this? Yes. Do governments have any clue to drive this? Most of them no. So, I think the short term solution is for companies to actually drive this. 
-
-Companies will need to solve the problem, companies we are basically seeing App Sec going their way and they are totally screwed because they cannot recruit enough people and they can't actually scale up. And as the attackers become more and more efficient, then you have a problem of who is actually going to implement and solve the problems.
+Companies need to solve the problem of paying for collaborative AppSec because within companies, AppSec is experiencing difficulties recruiting enough people, and scaling up. And as attackers become more and more efficient, the problem of who is actually going to implement and solve these issues becomes more important.
