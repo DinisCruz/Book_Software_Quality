@@ -4,3 +4,4 @@
 - No server-site generation of dynamic web content
 - Who is Paying for AppSec for open code?
 - Is your pentest delivering on AppSec?
+- Use AppSec to visualise logs
