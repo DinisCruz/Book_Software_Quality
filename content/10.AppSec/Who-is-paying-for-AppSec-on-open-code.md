@@ -1,4 +1,4 @@
-### Who is Paying for AppSec for open code?
+### Who is Paying for AppSec on open code?
 
 When there isn't a commercial company behind an application or library, who is paying for:
    - secure development
