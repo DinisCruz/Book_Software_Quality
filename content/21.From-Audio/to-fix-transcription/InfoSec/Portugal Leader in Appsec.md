@@ -1,11 +1,11 @@
-**Portugal Leader in App Sec**
+### Portugal as a Leader in AppSec
 
-So, Portugal could be a leader in App Sec. If you go back to Portugal's history, there were times when Portugal were the leading innovators and ground breaking researchers on navigation, on everything to do with sea and navigating the sea and basically discovering new land.
+Portugal could be a leader in AppSec. Throughout Portugal's history, there were times when Portugal provided the leading innovators and ground-breaking researchers in navigation, in maritime research, and exploration.
 
-So I think the same way that in the past Portugal was navigating the sea I think now Portugal should be navigating the code, should be a researcher, hold keys to the door of code.
+In the same way that Portugal navigated the seas in the past, Portugal should now be leaders in navigating the code. Portugal should hold the keys to the door of code.
 
-So basically they are pushing the envelope, challenging the world, be innovative, doing things that others aren't doing just because they can and following right this great history of being leaders in something that is very important.
+Portuguese researchers are pushing the envelope, challenging the world, being innovative, and they are doing things that others aren't doing just because they can. They are following this great history of leading important change and discovery.
 
-And what happens is code is more and more important, code controls Portugal, so software controls Portugal. The problem is Portugal doesn't control any of the software that it uses or very little of the software that it uses. So, I think it is time for Portugal to take control of it. I think it should be a strategic and key objective of both Portuguese companies and Portuguese government to actually lead this.
+Code is more and more important. Code controls Portugal, and so software controls Portugal. The problem is, Portugal controls very little of the software it uses. I think it is time for Portugal to take control of the software. I think this should be a strategic and key objective of both Portuguese companies and the Portuguese government.
 
-And of course you can replace Portugal with any other country in the world, you know especially European country. But I am Portuguese so I have a soft spot for Portugal but I also know that Portugal has really, really good talent, really good App Sec people that could actually make this happen, what we need is focus.
+Of course you can replace Portugal with any other country in the world, especially any European country. But I am Portuguese so I have a soft spot for Portugal, but I also know that Portugal has exceptional talent, exceptional AppSec people that could make this happen. What we need is focus and determination.
