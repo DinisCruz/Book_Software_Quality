@@ -1,0 +1,11 @@
+**Backlog Pit of Despair**
+
+In lots of dev teams, especially in agile, the backlog has become this massive black hole of issues, features, stuff that gets thrown into it and basically disappears. It is the sort of mixed bag of things that we might want to do in the future that we kind of don't care enough about today so we will throw into it.
+
+The problem is that you cannot use those for non functional requirements because usually the product backlog represents ideas, represents all sorts of interesting things, interesting stuff that you could do which is important you have to capture those. And in a way that is the job of the backlog, the backlog should represent all the kind of ideas that somebody had, you, the customer, the sales guys, somebody in the application food chain had about the product.
+
+And that is okay, you need to capture those and the fact they are in the backlog means that they aren't important, they aren't priority, as a feature. But non functional requirements cannot be there, especially the ones that have security implications. That is why you have to have a separate project like a jira project git hub project, for holding those tickets. And this way you can track them because when in a way you move the backlog of the normal issue tracking system it means that we don't care about it, it is okay, nobody actually is asking really for it or we can do that in the future. And it is basically a business decision.
+
+For security and quality issues, it is different, either they should be in a fixed state or they should be in a risk acceptance state so we can track them. So we can track which issues currently the business has decided that they aren't important to do but they still relevant. So, when you want to say I want to re-factor this, I want to fix this security issues, that still exists regardless if the product owner doesn't want to do it or it isn't a priority or customers aren't asking for it.
+
+So, in a way, the difference is the quality and security tickets represent reality, they represent something that currently occurs where the backlog represents future and wishful thinking that is stuff that should happen in the future. That is why they have very, very different properties and it is why you really shouldn't have quality and security tickets in the backlog black hole or pit of despair.
