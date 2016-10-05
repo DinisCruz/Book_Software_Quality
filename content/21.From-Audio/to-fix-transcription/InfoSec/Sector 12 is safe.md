@@ -1,10 +1,10 @@
-**Sector 12 is safe**
+### Sector 12 is safe
 
-CA had this great Ad [^ca-advert] where this guy was chasing some intruder through some tunnels and was almost about to catch him. And then eventually what happened was the intruder crossed a line into sector 13 and the line basically was there to enter sector 12. And then the security guy stopped running and the security went to the radio and said sector 12 is safe.
+There is a great CA ad [^ca-advert] that shows security men chasing an intruder through an office building. When they are almost about to catch him, the intruder crosses a line from sector 12 into sector 13. The security men stop running, and one of them radios, "Sector 12 is now secure".
 
-So, is it a typical example of a particular application or a particular team will look only at their own area and then care for issues on that area even when they maybe discovered [inaudible 00:00:55] but they actually in a way they almost promoted or encouraged not to care for an organization.
+This is a typical example of how a particular application, or a particular team, will only focus on their own area. If they discover issues that cross into another area or affect another organization, they will ignore them. Like the ad says, their area is now secure, and they have been encouraged not to follow-up on anything beyond their remit.
 
-We are doing the opposite, you want companies to realize they are all in bed together and what they really want to collaborate and realize that they have to be open issues in this case with the risk register you open, you know you should be encouraged to open issues on other people's teams.
+We are doing the opposite. We want companies to realize they are all in bed together. They need to collaborate, and they need to be open. When you open a risk register, you should be encouraged to open issues on other people's teams.
 
 
 [^ca-advert]: CA Commercial: eTrust Sector 12 https://www.youtube.com/watch?v=uNFtgGg6cgk
