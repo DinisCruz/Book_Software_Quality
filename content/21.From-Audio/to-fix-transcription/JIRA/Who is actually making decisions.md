@@ -1,11 +1,11 @@
-**Who is actually making decisions**
+### Who is actually making decisions?
 
-One of the interesting situations that occurs when we play the risk acceptance game, is to actually find out for real who in the block organization is actually making the decisions.
+One of the interesting situations that occurs when we play the risk acceptance game, is how we find out exactly who in the block organization is making the decisions.
 
-Because originally, what has to happen is the risk test be pushed up, so each person pushed their boss to accept risk. But usually there is a moment where basically what the boss does or aware of the management actually thus he pushes it down. So, you figure out well that isn't my decision, I expect that decision to be made by for example that person.
+Initially, what has to happen is the risk test is pushed up; each person has pushed their boss to accept risk. But usually there is a moment when the boss resists accepting the risk and pushes it down. The decision to accept risk has to be made by someone else.
 
-And usually, you can actually go all the way down then, you can actually go that person and then that person, and usually end up hitting at developer. Which is interesting because as long as the developer is actually making the decisions, he doesn't realize he is making the decisions.
+In most cases you can follow this line all the way down to the developer. Paradoxically, as long as the developer is making the decisions, he doesn't realize he is making the decisions.
 
-And it is one of those situations where sometimes the developer has a huge amount of power, he just doesn't realize it. So, if you play the risk acceptance game in a way, it is a way to realize who is actually making those decisions. And if anything to empower those because if then the person realizes well if I am the one making the decisions, then he might argue that he wants to be given time, he wants to be given more resources, or even a better decision making power.
+Developers often hold a huge amount of power, but they just don't realize it. Playing the risk acceptance game, and identifying who is deciding on risk, is a way of empowering the decision-maker. If the person can realize their role as a decision-maker, they can argue for more time, more resources, or even a more defined role as a decision-maker.
 
-So, if he makes a decisions about A, then he also basically makes decisions about B. Which is very, very interesting organization because usually until you do the exercise of who accepts the risk, those actions are not well defined and who is actually supposed to be accepting or making the decisions is not very well known. 
+This exercise is very interesting because usually, until you discover who accepts the risk, the deciding actions are not well-defined, and the person or people who are accepting risk, and making the decisions, are not very well known. 
