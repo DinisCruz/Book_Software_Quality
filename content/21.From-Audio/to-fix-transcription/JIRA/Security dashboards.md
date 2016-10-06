@@ -1,9 +1,9 @@
-**Security management dashboards**
+### Security Management Dashboards
 
-It is critical that you create a whole set of management dashboards that represent the mapping of security metrics that you are tracking. So, when you track the management requirements, when you track the BSM mappings, when you track the current risks that exist and that are being accepted or acted on, all those things have to create very, very strong dashboards, would have to be given to all the players.
+It is critical that you create a whole set of management dashboards that represent the mapping of security metrics you are tracking. When you track the management requirements, the BSM mappings, and the current risks that are being accepted or acted on, these factors all have to create very strong dashboards, and they have to be given to all the players.
 
-So, in a way, the idea of dashboard is, it is sequence of dashboards that starts with the developer, maps the things that he is responsible for, goes to his technical architect, goes to the business owner, goes to the product's owner and all the way to the CTO and the CSO.
+The idea is for a sequence of dashboards that starts with the developer, maps the things that he is responsible for, then goes to his technical architect, then on to the business owner, the product owner, and all the way to the CTO and the CSO.
 
-And basically each one makes it clear which areas they are responsible for, what are the risks they find, what is the current status of application security for those particular applications.
+Each party makes it clear which areas they are responsible for, what risks they find, and the current status of application security for those particular applications.
 
-And that is what will give you visibility and that is what will give you action items. In a way that is what will lead your security activities because you want to be acting on the areas that are red. You want to be acting on the areas that basically need work and are gaps in your current environment.
+This approach creates increased visibility, and it allows you to identify action items. In a way it will lead your security activities because you will want to act on the 'red' areas. You want to act on the areas that need work and that show gaps in your current environment.
