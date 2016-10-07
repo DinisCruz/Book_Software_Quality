@@ -1,4 +1,4 @@
-### Email is not an Official Communication Medium
+### Email is not an official communication medium
 
 Emails are conversations, they are not official communication mediums. In companies, there is a huge amount of information and decisions that are only communicated using emails, especially relating to risks, actions needed, non-functional requirements, and re-factoring. These things tend to only exist on an email thread or on a document in the middle of nowhere. That is not good enough. Email is just noise, and once something goes into an email it is often very difficult to find it again.
 
