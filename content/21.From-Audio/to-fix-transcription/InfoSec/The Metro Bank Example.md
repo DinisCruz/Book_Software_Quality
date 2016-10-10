@@ -1,4 +1,4 @@
-**The Metro Bank Example**
+### The Metro Bank Example
 
 Metro Bank is a new high street bank that opened in the UK in 2010. Its buildings are brand new, with facilities designed to create an attractive environment for customers. The analogy I would like to make in relation to security assessments in AppSec is this: Imagine that you, or investors, or regulators, want to know how secure Metro Bank is. This is a perfectly legitimate question to ask.
 
