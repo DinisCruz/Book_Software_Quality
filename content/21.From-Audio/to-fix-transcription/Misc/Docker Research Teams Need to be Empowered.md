@@ -8,6 +8,6 @@ Both the Docker teams and the company need to understand that their job is to be
 
 They should be trustworthy. They should know not to go crazy, but they should be trusted to do what it takes in order to solve a particular problem within the company.
 
-Let's say the Docker for example is to figure out how to containerize applications, how to actually make the development environment more productive, and how to go all the way to production where you can actually run in a Docker environment.
+Let's say the Docker has to figure out how to containerize applications, how to actually make the development environment more productive, and how to go all the way to production where you can actually run in a Docker environment.
 
 Regardless of whether the Docker gets used in production in the short term, just doing the exercise will solve a huge amount of problems. It will make sure that the dependencies are understood, and it will create a much better development environment for a lot of companies.
