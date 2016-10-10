@@ -2,7 +2,7 @@
 
 Two key problems web services consumers have is how to make sure that they fully understand:
 
-  a] what the web services API does and how it behaves.
+  a] what the web services API does and how it behaves
 
   b] what happens when there are changes.
 
