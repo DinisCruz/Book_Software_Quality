@@ -12,6 +12,6 @@ They can cause short-term damage, but ultimately, if the attacker tells you abou
 
 The ones you have to really worry about are the criminals who have criminal business models. They have a system, they invest in their system, they are persistent, and they are focused on finding ways to make money from your business.
 
-It is like Murphy's law: anything that can go wrong will go wrong. A targeted attack is malicious, it adapts, it reacts, it has multiple levels of activities. I have seen cases where three different teams work on an attack. One team carries out log in and password attacks to discover names and passwords and make sure they work. Another team will know how to use the names and passwords, and the third team knows how to get the money out of the system.  
+It is like Murphy's law: anything that can go wrong will go wrong. A targeted attack is malicious; it adapts, it reacts, it has multiple levels of activities. I have seen cases where three different teams work on an attack. One team carries out log in and password attacks to discover names and passwords and make sure they work. Another team will know how to use the names and passwords, and the third team knows how to get the money out of the system.  
 
 So if you happen to be positioned in one of those chains, you are in trouble because then the attackers will focus on your activities.
