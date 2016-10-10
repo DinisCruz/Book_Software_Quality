@@ -1,4 +1,4 @@
-**Annual reports are very selective with the truth**
+### Annual reports are very selective with the truth
 
 Most companies' annual reports are selective with the truth when it comes to reporting on application security. This is a problem because information doesn't get exposed, and security teams can't leverage the information to push for the right decisions.
 
