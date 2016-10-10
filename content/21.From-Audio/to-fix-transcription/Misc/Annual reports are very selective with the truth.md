@@ -1,17 +1,19 @@
 **Annual reports are very selective with the truth**
 
-Most companies' annual reports are lying on application security. Maybe lying is a strong word, they are just being selective with the truth on application security. Which is a problem because it doesn't expose information and it doesn't give the security teams leverage to actually push the right decisions.
+Most companies' annual reports are selective with the truth when it comes to reporting on application security. This is a problem because information doesn't get exposed, and security teams can't leverage the information to push for the right decisions.
 
-Because, there is no visibility, there has to be accountability. I have seen so many annual reports that have risk sections, all sorts of detailed information about the risk they have, but it doesn't talk of application security. Which is crazy because most of their businesses or most of their business runs on top of applications and websites and technology and software.
+One of the biggest benchmarks a company has is its annual report, so if the annual report doesn't take application security into account, the company has no incentive to invest in technology, or take technology seriously.
 
-And that isn't taken into account, which basically means that you have a situation where the company gets away with not investing and not taking technology seriously because ultimately one of the biggest benchmarks they have is the annual report.
+I have seen many annual reports that have risk sections that contain all sorts of detailed information about risk, but don't mention application security. This is astonishing when you consider that most business runs on top of applications, websites, technology, and software.
 
-Let us be clear, if a product loses one of their key developers and if that person doesn't work at the company any more, that is a big problem. That basically means that the company just lost the ability to understand one of the key parts of its work.
+Let's look at what happens if a product loses one of its key developers. If that person no longer works at the company, a big problem can arise. The absence of that developer means the company just lost the ability to understand one of the key parts of its work.
 
-And this isn't like other engineering practices where even if you lose some key individuals there will be very detailed argumentation, there will be very detailed work flows, you can replicate it. That doesn't work like that, most software is black boxes, they are very few people who understand how it works and basically one of those persons leaves, that is a big deal. 
+AppSec isn't like other engineering practices where even if you lose some key individuals there will be very detailed argumentation and workflows to assist with the replication of the knowledge that has left the practice. AppSec doesn't work like that. Most software is black boxes, and there are very few people who understand how it works. If one of those experts leaves, their knowledge leaves with them, and this is a big problem. 
 
-That should go on the annual report, in fact the annual report should contain the names of the key developers who understand the application, who understand how things work. And their loss, if not replaced by somebody else with the same skill or same capabilities is something that should be highlighted because that is a great warning sign for the future to know what is going to happen next.
+If an AppSec expert leaves a company, the annual report should mention this information. In fact, the annual report should contain the names of the key developers who understand the application and how things work. Their loss to a company, if they aren't replaced by someone with the same skill and capabilities, is something that should be highlighted because it signals a warning to the company on future product development.
 
-Because what it means, it means if you lose those individuals, it means that you can't make changes, it means you struggle to understand, it means there is going to be some  team now who is going to be looking at that code going, 'how the hell does this thing work?' and they are going to be very, very cautious in making any changes.
+If a company loses expert individuals, it means it can't make changes. It means a team might struggle to understand how a particular piece of code works. Consequently, the team is going to be very cautious in making any changes.
 
-Which basically means that the development will ground to a halt and it also explains why some products seem to be stuck in time and don't change. Because if those products gets to the point, where making any change it is a big deal. Making any change, especially if you don't have a very strong test read, it is a high risk exercise, so those things need to be captured in the annual reports so that the investors can make great decisions. And that is why I am saying most annual reports are very selective with how they explain these things.
+Development can grind to a halt. This explains why some products seem to be stuck in time and don't change. Because if those products get to the point where making any change is a big deal, if you don't have a very strong test read, it is a high-risk exercise. 
+
+This kind of information needs to be captured in the annual reports so that the investors can make better informed decisions. 
