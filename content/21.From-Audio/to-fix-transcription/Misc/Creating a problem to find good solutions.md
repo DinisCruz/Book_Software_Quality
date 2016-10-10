@@ -1,6 +1,6 @@
-**Creating a Problem to Find Good Solutions.**
+### Creating a Problem to Find Good Solutions
 
-One of my favourite ways to solve a difficult problem is to put myself, or my team, in a situation where we have to solve the problem. This approach forces you to understand what is going on, and it forces you to think how you will address the problem. By doing this we are not thinking theoretically about a particular issue. We are dealing with a real problem with real scenarios, real outcomes, and real feedback.
+One of my favourite ways to solve a difficult problem is to put myself, or my team, in a situation where we have to solve the problem. This approach forces us to understand what is going on, and it forces us to think how we will address the problem. By doing this we are not thinking theoretically about a particular issue. We are dealing with a real problem with real scenarios, real outcomes, and real feedback.
 
 The closer you can be with the problem you are solving, the more you can experience, the more you can visualize, and the better the solution you will devise. 
 
