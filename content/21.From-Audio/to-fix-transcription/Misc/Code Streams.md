@@ -1,4 +1,4 @@
-**Code Streams**
+### Code Streams
 
 Once I had the method streams, I started to look at what else could I do with them. I realized that I could also start to follow the individual code assignment. I created what I call code streams, which is basically each individual path as I was able to calculate them. 
 
