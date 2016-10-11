@@ -1,15 +1,13 @@
 ### On Ideas
 
-So part of the reason why I am trying to do more blog posts like this and more documenting is that there is a very interesting phenomenon that happens that once you start documenting ideas or exploring a particular idea, other ideas come out of it.
+Part of the reason I am trying to write more blog posts like this is that a very interesting phenomenon happens once I start documenting ideas or exploring a particular idea; I find that new and really interesting ideas emerge from the noise of all the general brainstorming.
 
-And in some ways, out of the noise of all this bunch of brainstorming and basically big ideas, that someways the good ones actually arrive at the end.
+Just now I was thinking of an interesting idea but I've forgotten what it was. This is really frustrating; it is as though I had a little bird in my hand and I just let it fly away.
 
-And for now I was just thinking of an interesting idea and I just forgot what it was and it is really, really frustrating because it is a bit like this little bird you had in your hand that you just let it fly.
+Now, if I can remember the idea at all, I won't remember it in the same precise detail or format. This frustrates me because that particular idea might have led to other ideas, and I was going to blog about it, document it and explore how it might work, but now I can't.  
 
-And now, if I can remember what happened, or what that idea was then I am never going to have it again, at least not on that format. And it is a really, really frustrating exercise because sometimes not that particular idea that was good it was the one that I was going to create from that or the one that would...to write a blog about it or I was actually going to start you know document it then that is how it works.
+To avoid this happening too often, one of the things I have done many times, especially as I start this sort of static analysis, is that I fill notebooks with my ideas. I make a note of everything that comes into my head.
 
-So, one of the things I have done tens of times especially as I go into this sort of static analysis well is that I write basically notebooks, I write notebooks after notebooks, after notebooks just literally ideas. Everything that comes to my head I just start writing it down.
+Sometimes really interesting and powerful ideas come out of my writing. Usually, when I am developing an idea, I come up with some really interesting and simple new ideas and new ways to address problems I might have. 
 
-And in some ways some really, really interesting and powerful ideas come out of it and it is usually like the third phase when the real stuff comes out and you really come up with really, really interesting and simple ideas and ways to actually address the problem.
-
-And in some ways if you look at my work on O2 platform it is all about coming up with ideas to solve particular problems and exploring tens of different directions until you are actually able to really figure out what is actually happening. And basically what is the best way to solve a particular problem, and of course it all comes down to ideas.
+If you look at my work on the O2 platform, it is all about coming up with ideas to solve particular problems, and exploring in different directions until I can really figure out what is happening. This, for me, is the best way to solve a particular problem, and it all comes down to exploring ideas through writing.
