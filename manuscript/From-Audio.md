@@ -1,6 +1,12 @@
 ## From Audio - Rewrite and map to chapters
 
+<<<<<<< HEAD:manuscript/From-Audio.md
 ### Technical Managers With Coding Skills
+=======
+... This is a content Change ...
+
+### Technical managers With Coding Skills!!!!
+>>>>>>> refs/remotes/origin/DinisCruz-patch-1:content/21.From-Audio/From-Audio.md
 
 If you have technical managers with coding skills, it’s a waste of their talent if they’re not coding once they get promoted into a non-coding function like technical architect or business analyst or even manager.
 
