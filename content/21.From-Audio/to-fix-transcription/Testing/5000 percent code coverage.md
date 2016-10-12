@@ -1,20 +1,20 @@
-**5000 percent code coverage.**
+### 5000% code coverage
 
-A big blind spot in development occurs with the idea that even a hundred percent code coverage is too much. The key concept is that 100% or 99% code coverage isn't the summit, isn't where you want to go. That is base camp, that is the beginning of a journey that allows you to do all sorts of other tests and all sorts of other analysis.
+A big blind spot in development is the idea that even 100% code coverage is too much. The key concept is that 100% or 99% code coverage isn't your summit. 100% is base camp, the beginning of a journey that will allow you to do all sorts of other tests and analysis.
 
-So, the logic is that you use code coverage as an analysis tools, you use code coverage as a way to understand what a particular question is actually doing.
-So what you have is a code coverage allows you to much better answer questions. So, for example, I want to make sure that I have 100% code coverage on all my exposed controllers for example.
+The logic is that you use code coverage as an analysis tool, and as a way to understand what a particular question is doing.
+Code coverage allows you to answer questions in much greater detail. 
 
-So, I want to make sure that if I look at my browser automation, or my network automation tests, they are hitting 100% of my controllers. Now, it doesn't matter to me if that moment in time I actually have point eyes or later tests for those controllers that actually checks something, that actually invoke that code, that might not be good enough.
+For example, I want to make sure that I have 100% code coverage on all my exposed controllers. I want to make sure that if I look at my browser automation, or my network automation tests, they are hitting 100% of my controllers. Now, it doesn't matter to me if at that moment in time I have .i's or later tests for those controllers that check something or that invoke that code. That might not be good enough.
 
-I want to know what happens in that particular scenario which in this case is web based requests to a particular controller. So, in a way you don't need 100% code coverage, you need a thousand, you need two thousand, five thousand. You need a huge amount of code coverage because ultimately, each method should be hit more than once, each method should be hit from all sorts of different cases.
+I want to know what happens in a particular scenario, which in this case is web-based requests to a particular controller. I don't need 100% code coverage, I need 1000%, or 2000%, or even 5000%. I need a huge amount of code coverage because ultimately, each method should be hit more than once, and each method should be hit from all sorts of different cases.
 
-In fact, your code coverage should ultimately match your use cases, should match every work flow that exists because that is actually another very interesting question. If I take all your accepted use cases, and I have the said tests for the current user contract, i.e. everything the user expects to do when interacting application, and I look at the coverage of the application.
+In fact, my code coverage should ultimately match my use cases, and every workflow that exists. This brings us to another very interesting question. If I take all your accepted use cases, and I have the said tests for the current user contract, i.e. everything the user expects to do when interacting application, I look at the coverage of the application.
 
-If I want to get 70% let's say on a web tier, what is the rest? What is the other code that currently cannot be invoked using normal piece of interaction? And in most cases what you find is that code or vulnerabilities actually that exist there just waiting one day to be invoked.
+If I want to get, let's say, 70% on a web tier, what is the rest? What is the other code that currently cannot be invoked using a normal piece of interaction? In most cases you will find the other code or vulnerabilities that exist there, waiting to be invoked.
 
-Same thing the next year, I have an API layer, okay so you find and invoke every single method on that API. If I don't get 100% code coverage on all my code, what else is there? What kind of scenario currently exists in the code that I am not able to replicate in my tests?
+If I do the same exercise the following year, but now I have an API layer, I find and invoke every single method on that API. If I don't get 100% code coverage on all my code, what else is there? What kind of scenario currently exists in the code that I am not able to replicate in my tests?
 
-Because that is the big question, the big question is, is there any part of the code that will be triggered by some event, some scenario? And you need to understand where those scenarios are, I need to test it because especially if you want to fix it, how can you fix a scenario that you don't even understand?
+Because that is the big question: is there any part of the code that will be triggered by some event? And I need to understand where those scenarios are, I need to test the code, especially if I want to fix it. How can I fix a scenario that I don't even understand?
 
-So, ultimately what you want isn't 100% that is actually very narrowing, what you want is a thousand, five thousand percent code coverage.
+Ultimately, what we want isn't 100%, because 100% is actually very narrowing. What we want is a 1000%, or even 5000%, code coverage.
