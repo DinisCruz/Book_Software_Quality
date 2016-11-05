@@ -1,22 +1,22 @@
-**Sharing Is A Very Emotional And Dangerous Practice.**
+### Sharing is a Very Emotional and Dangerous Practice
 
-As somebody who likes to share a lot of information, I have a very personal experience of what it feels like when you share data especially in environments that are not rewarding or promoting the sharing of the information. Whether that is a screen shot or a document or an idea.
+As someone who likes to share a lot of information, I have a very personal experience of what it feels like when you share data, especially in environments that don't promote, or reward, the sharing of information, whether that is a screen shot, a document, or an idea.
 
-And it is actually highly inefficient the way a lot of companies work but because they don't promote sharing you are in a situation where knowledge doesn't get transmitted. And basically it stays there.
+Many companies don't promote sharing, and as a result knowledge doesn't get transmitted. This is a highly inefficient way to work.
 
-Usually I tend to have the kind of sort of the shitometer scale of a couple of hours a day and then probably a week which is if I publish something online, if within three hours there isn't a massive allergic reaction, then that means that it can't be that bad. 
+When I publish something online, I usually use a kind of 'shitometer' scale to measure reaction to my post. The scale ranges from a couple of hours, to a day, to a week. If there isn't a massive allergic reaction to what I've published within three hours, that means my content can't be that bad. 
 
-If within the day there has been no complaints it means that the other side has to lose moral authority to complain and if after a week that is it the cat is out of the bag. They can argue against sharing something because there is enough time out there they could have complained and said something about it.
+If within a day there have been no complaints, it means that the other side has lost the moral authority to complain, and after a week without complaints I consider the cat to be out of the bag. Anyone who objects after a week can't argue that I shouldn't have shared, because they had enough time to complain, but they didn't.
 
-But the problem is why that is even a problem, ideally when a situation where you can just share without thinking because when you also think about sharing, what ends up happening is the reward isn't to share, the reward is to let a status quo and not to bite that little fight.
+My problem is, why is sharing even a problem? Ideally, you should be able to share without thinking. When you think about the possible consequences of sharing, what can happen is you think about how you may not be rewarded for sharing. You are more likely to be rewarded for maintaining the status quo.
 
-Which can be quite hard because it can be a friendship that you are putting at play, it could be business relationship, it can be you know you don't want to piss off somebody or a company or a business party or somebody. Because in a way it could be a situation where you have more things to worry about in your life or in your work than fighting that fight.
+This can be quite difficult, because by sharing certain information you can jeopardize a friendship or a business relationship. Nobody wants to alienate a company or a business partner.  You may have more important things to worry about in your life or in your work than fighting that particular fight.
 
-So, I found that one of the jobs of management is to promote that, is to reward the people that share to put pressure, to give cover, in fact to share themselves. I always find that when I am in a team the more I share, the more other people share because they think, "well if that guy got away with that one, then I am also going to be able to get away with this one" so it gives cover.
+I believe that one of the jobs of management is not only to promote sharing, and reward the people that share, but also to share themselves. I always find that when I am in a team the more I share, the more other members share because they think, "Well, if that guy can get away with sharing that information, then I can get away with sharing too". My sharing gives cover to others, and a positive cycle, where sharing creates more sharing, is created.
 
-So, you can have a nice, positive cycle with the more sharing the more it happens so you can have a nice or a bad negative cycle where nobody shares and of course if somebody shares something and then they get punished that is guarantee that nobody is ever going to share anything after.
+Of course you can also have a negative cycle where nobody shares, or if somebody shares something and gets punished for it, nobody will ever share anything again.
 
-So, ultimately what we want is situations where information is promoted, it is out there and we can all learn from each other. And ultimately this is one of the advantages of the open model and the lack of agenda in an open or a creative commons world where you know things can be shared, there is already an implicit license to share. 
+Ultimately, what we want is a situation where the sharing of information is promoted, so we can all learn from each other. The lack of agenda is one of the main advantages of the open model. In an open and creative world, you know things can be shared, and there is already an implicit license to share. 
 
-Because you have basically a license that gives you the ability to do something, so you don't have to ask permission and that is the key. That is why collaboration happens a lot more even inside the same company when you have open licenses.
+A license gives you the ability to do something, so you don't have to ask permission and that is the key. That is why collaboration happens a lot more even within a company when you have open licenses.
 
