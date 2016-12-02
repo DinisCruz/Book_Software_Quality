@@ -1,25 +1,25 @@
-**Open source collaboration companies.**
+### Open source collaboration companies
 
-The reason companies need to embrace open source as a development strategy is because internally, when you have multiple teams working together, you need to have common ground ways to collaborate.
+The reason companies need to embrace open-source as a development strategy is because internally, when multiple teams have to work together, they need to establish common ground where collaboration can take place.
 
-And one of the key elements of multi- team collaboration is who controls the components. One of the reasons why there is so much reinventing of the wheel and so much team [inaudible 00:00:34] at work is actually not just because people don't know what is going on or don't want to use somebody else, it is about control and power.
+One of the key elements of multi-team collaboration is identifying who controls the components. One of the reasons why there is so much reinventing of the wheel is not because teams don't know what is going on, or they don't want to work with someone they don't know. It is because of struggles for control and power.
 
-So, if you have a team for example at the company that is developing an authorization model or a particular model, if they are the only ones maintaining that model, if they are the only ones who are able to modify that model, then what you just created was a bottleneck, and a power situation where that particular team now controls the other teams that use it.
+For example, imagine that a team in your company is developing an authorization model. If they are the only ones maintaining that model, and if they are the only ones who are able to modify that model, then you have created a bottleneck. A power dynamic now exists where that particular team now controls the other teams that use the authorization model.
 
-And of course this gets political very fast, and all it takes is for one team to be at want to go faster or not the other teams that you have all possible conflict. So, in a way sometimes it is easy and faster and cheaper for a particular team to actually develop something by themselves than to use a shared module.
+Of course this gets political very quickly. All it takes for possible conflict to arise is for one team to want to go faster than the other teams. Because of this, sometimes it is easier, faster, and cheaper for a particular team to develop something by themselves, than to use a shared module.
 
-Now, if that module was open source, then the implication of a fork, the implication of reusing that particular version was much more easy to do. In fact, it will be implied that what you do when you take someone else's code is you fork it and then you commit back the things that should be on the main repository.
+However, if that same module was open-source, then the implication of a fork, or of re-using a particular version, would be much easier to do. In fact, it would imply that when you take someone else's code, you fork it, and then you commit back the things that should be on the main repository.
 
-And if you don't, then you have what is called the open source tax which is you will have to maintain whatever changes are made to the upstream with the changes that you made in your own fork.
+If you don't, then you have what is called the open-source tax, where you have to maintain whatever changes are made to the upstream with the changes you made in your own fork.
 
-So, ironically, even at company levels especially bigger companies, open source is one of the ways to promote teams collaboration. And this actually is very important when you have companies who buy all sorts of other companies, and then you need to integrate those things. 
+So, ironically, even at company levels, and especially in bigger companies, open-source is one of the ways to promote team collaboration. Team collaboration is very important when you have companies who buy all sorts of other companies whose systems then need to be integrated. 
 
-And what you end up having is you end up having a situation where for example every one of the products have been acquired has specific modules.They all have got security signature, they all have their own dedication, their own authorization, their own validation, their own way of storing data, etcetera.
+You often end up in a situation where every one of the products acquired has specific modules. They have all got a security signature, they all have their own dedication, authorization, validation, their own way of storing data, and so on.
 
-And instead of having common libels or common integration among those things, what you then have is every team is fighting for controlling that particular part of the application. Because ultimately, especially again pragmatically it means that if you don't have to maintain some components, you probably need a less head counts. 
+Instead of having common labels or common integration among those things, every team fights to control a particular part of the application. The teams are thinking pragmatically: if they don't have some components to maintain, the size of the team will be effected.
 
-So you are going to lose developers, so your team is going to get smaller, so in a way, you are asking teams sometimes to collaborate with the direct idea that they will lose out, they will actually become less involved or less powerful when they collaborate.
+The team will lose developers and get smaller. In a way, teams are asked to collaborate with the idea that they will lose out, and will become less powerful if they collaborate.
 
-Which is of course, it is a guarantee that isn't really going to happen. Not that people will do it on purpose, it is just that they proactively won't integrate. And this is why some companies really struggle when they acquire others and to create products that are working together because there isn't that strong mandate or that strong desire to collaborate because it isn't actually designed in a way to promote collaboration, and open source can give you that.
+Of course, this guarantees that this kind of collaboration won't happen. I do not suggest that people will avoid it on purpose, but they won't proactively integrate. This is why some companies struggle when they acquire other companies and try to create products that work together. There isn't a strong desire to collaborate, because the company development strategy isn't designed in a way that promotes collaboration. Open-source, on the other hand, does encourage collaborative integration.
 
-So, ultimately, companies really need to look at their products and understand what parts need to be open source, what parts really should be propitiatory if they really want to play that game and in a way make the propitiatory part as small as possible because that really should be the magic sauce if you are playing the propitiatory game of course.
+Ultimately, companies need to look at their products and understand what parts need to be open-source, and what parts should be propitiatory. Propitiatory concessions should be strictly limited.
