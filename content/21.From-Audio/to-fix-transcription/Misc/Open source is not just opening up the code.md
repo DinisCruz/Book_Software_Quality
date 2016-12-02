@@ -1,11 +1,11 @@
-**Open source is not just opening up the code.**
+### Open-source is not just opening up the code
 
-When companies end up open source, they aren't just embracing the idea that the code is released and the open license. But they are also embracing a collaboration culture, they are embracing the idea that it should be collaborating, that teams should be sending codes among each other, they should be sharing their knowledge, they should be pushing out there and they should be expected that their code and their actions will be peer reviewed.
+When companies decide to open-source, they aren't just embracing the idea that the code is released and the license is open-source. They are also embracing a collaborative culture. They embrace the idea that the companies should be collaborative, that teams should send codes among each other, they should share their knowledge, and they should push the boundaries. The companies also embrace the idea of their code and their actions being peer-reviewed.
 
-One of the common themes about open source is that there is a much bigger duty of care by all parties involved. And it is interesting because it is just the concept of opening it that makes people take that extra care of attention, forces them to have a much stronger will to look after the little things, look after the quality. Make sure things are done properly and that things in a way are easy to actually consume.
+One of the common characteristics of open-source is that there is a much bigger duty of care by all parties involved. The concept alone of open-source makes people take extra care, and forces them to pay much closer attention to detail and quality. People want to make sure things are done properly, in a way that is easy to consume.
 
-And this is one of those untold benefits of open source, opening the code is that it allows much sooner rather than later, it allows for products to be install able and deploy able at a wider audience.
+One of the untold benefits of open-source is that it allows for products to be installable and deployable for a wider audience sooner rather than later.
 
-So, you don't have things as packages that only work in a particular box or particular computer, they make sooner get exposed to the problem of having multiple people with multiple systems in multiple environments actually consuming that particular application.
+You don't encounter packages that only work in a particular box or a particular computer; teams get exposed earlier to the problem of having multiple people with multiple systems in multiple environments actually consuming that particular application.
 
-So, open source ultimately it is a way to promote environments that are much more collaboration friendly down at the code level. So, it isn't just about license, it isn't just about slapping something there, saying please copy this, in fact there is a lot also of cases of companies who have done that and of course nothing really happened because ultimately open source is about a community, it is about creating communities and that is really hard to do.
+Ultimately, open-source is a way to promote environments that are much more collaboration-friendly at code level. It isn't just about license, it isn't just about dropping something and giving instructions for it to be copied. Where companies have done this, nothing happened, because open-source is about a community. Open-source is about creating communities, and that is difficult to achieve.
